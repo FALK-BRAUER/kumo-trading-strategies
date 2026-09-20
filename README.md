@@ -58,3 +58,18 @@ half-spreads measured off SIP NBBO quotes (a flat rate where the set says so).
 tried, and on this research programme that correction is not cosmetic.
 
 Current state and honest caveats: the operating notes kept beside the private manual.
+
+## Disclaimer
+
+This repository is research software. Nothing in it is investment, trading, financial or legal advice, an
+offer or a recommendation to buy or sell any security, or a claim that any strategy here is profitable.
+The backtest results tracked beside each strategy are simulations on historical data with modelled costs
+and fills: they are hypothetical, they can differ materially from what a live account would have earned,
+and past performance — simulated or real — does not indicate future results. Trading securities involves
+risk, including the loss of the amount invested and, for short positions, losses beyond it.
+
+The software is provided under the LGPL-3.0-or-later **without warranty of any kind** (see `LICENSE`). The
+authors are not registered investment advisers or broker-dealers and accept no liability for any decision or
+loss arising from the use of this code or these results. If you run it against a brokerage account, you do
+so on your own responsibility, after your own review, and in compliance with your own jurisdiction's rules.
+Market data referenced here belongs to its providers and is subject to their terms.
