@@ -1,0 +1,34 @@
+{
+ "generated_at": "2026-09-19T16:28:25Z",
+ "git_sha": "0969811bd1d362c6faa3bb0881883c11e4ed86ac",
+ "package": {
+  "python": "3.12.13",
+  "pandas": "3.0.3",
+  "kumo_strategies": "unknown",
+  "nautilus_trader": "1.229.0"
+ },
+ "strategy": "qc27_tech_inverse_vol",
+ "set": "tech-universe-daily-2025-2026",
+ "variation": "monthly",
+ "inputs": [
+  {
+   "path": "bars.parquet",
+   "sha256": "2a709df4dee529f9372298eeb28af6e77026d22edce4bc21492d2050a37955ff",
+   "bytes": 4077704
+  },
+  {
+   "path": "sectors.parquet",
+   "sha256": "51bcfc4d60901333b1b8b6dfaf2631fcfcb273aa00d423825f92713950c56ebf",
+   "bytes": 151918
+  },
+  {
+   "path": "half_spreads.json",
+   "sha256": "852f112ca8dccd5521b66a629e68176ce1d921c5660fb3f7a80b935a6fbd70d9",
+   "bytes": 13307
+  }
+ ],
+ "parameters_sha256": "4c224f356dbf1466466480cca6f811dfa3f77e9b2d9b609be5a154d36d0e5ecb",
+ "argv": [
+  "src/kumo_strategies/strategies/qc27_tech_inverse_vol/backtests/tech-universe-daily-2025-2026/variations/monthly/run.py"
+ ]
+}

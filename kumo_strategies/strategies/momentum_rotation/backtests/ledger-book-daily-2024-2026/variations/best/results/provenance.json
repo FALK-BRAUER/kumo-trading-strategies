@@ -1,0 +1,44 @@
+{
+ "generated_at": "2026-09-20T02:38:39Z",
+ "git_sha": "2c81fc2c57583ec090544bccb93783db16e590ae",
+ "package": {
+  "python": "3.12.13",
+  "pandas": "3.0.3",
+  "kumo_strategies": "unknown",
+  "nautilus_trader": "1.229.0"
+ },
+ "strategy": "momentum_rotation",
+ "set": "ledger-book-daily-2024-2026",
+ "variation": "best",
+ "inputs": [
+  {
+   "path": "bars.parquet",
+   "sha256": "e4044125cfb12892562b9eda678075e51b6c50a86c43874a1c04680a348864d2",
+   "bytes": 7318450
+  },
+  {
+   "path": "ledger.csv",
+   "sha256": "bdef26c415d06929b0204602dcb0bab781be7c5475a597bb19168d02599a0bc2",
+   "bytes": 89895
+  },
+  {
+   "path": "ledger-snapshots.json",
+   "sha256": "9058f958a909e28d4bef4a2fd0274859c2fefaafcbc75997d42fe72a7a5ed9cb",
+   "bytes": 44132
+  },
+  {
+   "path": "instruments.json",
+   "sha256": "df1dd18d8745ab31913ea4cf0c3a6734f7fe09f0c26e996ade7c2a03454f10b0",
+   "bytes": 4127234
+  },
+  {
+   "path": "half_spreads.json",
+   "sha256": "852f112ca8dccd5521b66a629e68176ce1d921c5660fb3f7a80b935a6fbd70d9",
+   "bytes": 13307
+  }
+ ],
+ "parameters_sha256": "1e6a8df1570194923120c6c628346cfed67be58cb2b3059da4a7c171aed42c99",
+ "argv": [
+  "kumo_strategies/strategies/momentum_rotation/backtests/ledger-book-daily-2024-2026/variations/best/run.py"
+ ]
+}

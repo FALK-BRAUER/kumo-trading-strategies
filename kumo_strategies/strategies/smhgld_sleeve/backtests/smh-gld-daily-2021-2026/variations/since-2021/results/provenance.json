@@ -1,0 +1,24 @@
+{
+ "generated_at": "2026-09-20T02:38:41Z",
+ "git_sha": "2c81fc2c57583ec090544bccb93783db16e590ae",
+ "package": {
+  "python": "3.12.13",
+  "pandas": "3.0.3",
+  "kumo_strategies": "unknown",
+  "nautilus_trader": "1.229.0"
+ },
+ "strategy": "smhgld_sleeve",
+ "set": "smh-gld-daily-2021-2026",
+ "variation": "since-2021",
+ "inputs": [
+  {
+   "path": "bars.parquet",
+   "sha256": "59a68f2d57f1361787f708390ec04583c4ec492edd85df320afe75ba63cb0023",
+   "bytes": 45910
+  }
+ ],
+ "parameters_sha256": "127854aaca2b6c3f14c6d79fb8831e6b805e2cfec54c8df72e16d8543654003d",
+ "argv": [
+  "kumo_strategies/strategies/smhgld_sleeve/backtests/smh-gld-daily-2021-2026/variations/since-2021/run.py"
+ ]
+}

@@ -1,0 +1,1 @@
+kumo_strategies/strategies/*/backtests/*/*.parquet filter=lfs diff=lfs merge=lfs -text

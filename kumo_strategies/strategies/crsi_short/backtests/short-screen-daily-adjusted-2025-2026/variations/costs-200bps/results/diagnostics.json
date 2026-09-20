@@ -1,0 +1,4259 @@
+{
+ "decisions": [
+  {
+   "date": "2025-01-02 00:00:00",
+   "equity": 1000000.0,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-03 00:00:00",
+   "equity": 1000000.0,
+   "held": 0,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "TSLQ",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-06 00:00:00",
+   "equity": 1000000.0,
+   "held": 0,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "NXTS,NITO",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-07 00:00:00",
+   "equity": 1000000.0,
+   "held": 0,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "SERV,KITT",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-08 00:00:00",
+   "equity": 999001.148,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "FUBO",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-10 00:00:00",
+   "equity": 1003530.9346666667,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-13 00:00:00",
+   "equity": 1009360.3727619048,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-14 00:00:00",
+   "equity": 1015016.7213333334,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "DJT",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-15 00:00:00",
+   "equity": 1013923.4241904763,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-16 00:00:00",
+   "equity": 1012349.3041904764,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "BOIL",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-17 00:00:00",
+   "equity": 1018630.4130793653,
+   "held": 2,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-21 00:00:00",
+   "equity": 1020791.2249428573,
+   "held": 4,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "MSTX,MARA",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-22 00:00:00",
+   "equity": 1024676.2713666669,
+   "held": 5,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "OKLO",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-23 00:00:00",
+   "equity": 1006091.2002873019,
+   "held": 4,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "NNE",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-24 00:00:00",
+   "equity": 997675.5644571433,
+   "held": 3,
+   "resting": 2,
+   "signalled": 4,
+   "entered": "CLEU,TEM",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-27 00:00:00",
+   "equity": 1011455.3502825401,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "OKLO",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-28 00:00:00",
+   "equity": 1010932.0363222224,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-29 00:00:00",
+   "equity": 1005184.7333634923,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-30 00:00:00",
+   "equity": 1005348.1555857145,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "SLXN",
+   "refused": 0
+  },
+  {
+   "date": "2025-01-31 00:00:00",
+   "equity": 1006600.5936809526,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-03 00:00:00",
+   "equity": 1003135.3256174605,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "HIMS",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-04 00:00:00",
+   "equity": 998329.0947047621,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-05 00:00:00",
+   "equity": 999583.5393079367,
+   "held": 1,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-06 00:00:00",
+   "equity": 1000740.7594444446,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "TEM",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-07 00:00:00",
+   "equity": 1002115.7220158731,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-10 00:00:00",
+   "equity": 1000094.1763333334,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "SMCI",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-11 00:00:00",
+   "equity": 999252.8398269841,
+   "held": 2,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-12 00:00:00",
+   "equity": 996320.3271603175,
+   "held": 2,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "TSLQ,TSLZ",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-13 00:00:00",
+   "equity": 992273.4960809525,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "AIFF",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-14 00:00:00",
+   "equity": 1009684.5862111112,
+   "held": 3,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "TEM",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-18 00:00:00",
+   "equity": 1014183.0389650794,
+   "held": 2,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-19 00:00:00",
+   "equity": 1009559.558836508,
+   "held": 4,
+   "resting": 3,
+   "signalled": 3,
+   "entered": "WRD,SMCX,SMCI",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-20 00:00:00",
+   "equity": 1018268.3447968254,
+   "held": 4,
+   "resting": 1,
+   "signalled": 3,
+   "entered": "BOIL",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-21 00:00:00",
+   "equity": 1015157.8349317461,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-24 00:00:00",
+   "equity": 1016481.5259555556,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-25 00:00:00",
+   "equity": 1025839.8866698412,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-26 00:00:00",
+   "equity": 1022600.4719777779,
+   "held": 5,
+   "resting": 3,
+   "signalled": 3,
+   "entered": "TSLQ,TSLZ,MSTZ",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-27 00:00:00",
+   "equity": 1016755.432493651,
+   "held": 5,
+   "resting": 0,
+   "signalled": 2,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-02-28 00:00:00",
+   "equity": 1009554.7745952382,
+   "held": 1,
+   "resting": 0,
+   "signalled": 2,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-03 00:00:00",
+   "equity": 1012550.2827301588,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-04 00:00:00",
+   "equity": 1011491.219436508,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-05 00:00:00",
+   "equity": 1010266.311547619,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "GRRR",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-06 00:00:00",
+   "equity": 1019766.9660714286,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-07 00:00:00",
+   "equity": 1026617.698373016,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-10 00:00:00",
+   "equity": 1034221.0509523811,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-11 00:00:00",
+   "equity": 1028311.5045428573,
+   "held": 4,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "TSLQ,TSLZ",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-12 00:00:00",
+   "equity": 1051873.5108761906,
+   "held": 4,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-13 00:00:00",
+   "equity": 1047125.6898166665,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-14 00:00:00",
+   "equity": 1050363.8198722217,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-17 00:00:00",
+   "equity": 1041558.6013277773,
+   "held": 3,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "QBTS,NVDL",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-18 00:00:00",
+   "equity": 1032307.3722420629,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "QUBT",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-19 00:00:00",
+   "equity": 1029863.4247706344,
+   "held": 1,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-20 00:00:00",
+   "equity": 1029518.1487706344,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-21 00:00:00",
+   "equity": 1029518.1487706344,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-24 00:00:00",
+   "equity": 1029518.1487706344,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-25 00:00:00",
+   "equity": 1026438.7683706344,
+   "held": 3,
+   "resting": 3,
+   "signalled": 3,
+   "entered": "TSLL,TEM,APP",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-26 00:00:00",
+   "equity": 1040196.5958928566,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-27 00:00:00",
+   "equity": 1045556.4049817454,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-28 00:00:00",
+   "equity": 1047435.8890611104,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-03-31 00:00:00",
+   "equity": 1047060.1574738089,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "UVXY",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-01 00:00:00",
+   "equity": 1048277.3919341263,
+   "held": 4,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "MLGO",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-02 00:00:00",
+   "equity": 1071475.5999293644,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-03 00:00:00",
+   "equity": 1062253.472300793,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-04 00:00:00",
+   "equity": 1062051.4094436502,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-07 00:00:00",
+   "equity": 1058606.6337293645,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-08 00:00:00",
+   "equity": 1060534.34684365,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "YANG",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-09 00:00:00",
+   "equity": 1070912.76402619,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "UVIX",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-10 00:00:00",
+   "equity": 1088855.4271293648,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-11 00:00:00",
+   "equity": 1098621.7121928572,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-14 00:00:00",
+   "equity": 1111880.392565873,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-15 00:00:00",
+   "equity": 1111466.1869706349,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-16 00:00:00",
+   "equity": 1110240.4707992065,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-17 00:00:00",
+   "equity": 1113641.2056563492,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-21 00:00:00",
+   "equity": 1105396.3570849206,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "HTZ",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-22 00:00:00",
+   "equity": 1104714.6610849206,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-23 00:00:00",
+   "equity": 1103610.5206849207,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "BITX",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-24 00:00:00",
+   "equity": 1102910.935837302,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "TEM",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-25 00:00:00",
+   "equity": 1097847.9565960323,
+   "held": 2,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "SOXL",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-28 00:00:00",
+   "equity": 1093842.8938388892,
+   "held": 5,
+   "resting": 6,
+   "signalled": 6,
+   "entered": "CEP,XXI,TSLL,MSTU,MSTX,MSTR",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-29 00:00:00",
+   "equity": 1093141.9716246035,
+   "held": 5,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-04-30 00:00:00",
+   "equity": 1096777.7730484128,
+   "held": 3,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "MSTU,MSTX",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-01 00:00:00",
+   "equity": 1087157.3706484127,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-02 00:00:00",
+   "equity": 1084984.5348484127,
+   "held": 2,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "CEP,XXI",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-05 00:00:00",
+   "equity": 1128927.71746746,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-06 00:00:00",
+   "equity": 1137655.57215,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-07 00:00:00",
+   "equity": 1131497.897618254,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "HIMS",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-08 00:00:00",
+   "equity": 1126648.3452531747,
+   "held": 3,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-09 00:00:00",
+   "equity": 1128724.762118254,
+   "held": 4,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "ASST,PONY",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-12 00:00:00",
+   "equity": 1135717.057364286,
+   "held": 4,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-13 00:00:00",
+   "equity": 1136901.7201039686,
+   "held": 7,
+   "resting": 5,
+   "signalled": 6,
+   "entered": "NXTT,NBIS,SOXL,ETHU,TSLL",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-14 00:00:00",
+   "equity": 1120332.4284023813,
+   "held": 12,
+   "resting": 5,
+   "signalled": 9,
+   "entered": "ACHR,TSLT,SMCI,CONL,OKLO",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-15 00:00:00",
+   "equity": 1103061.8210880957,
+   "held": 10,
+   "resting": 5,
+   "signalled": 9,
+   "entered": "AMDL,SMCX,SMR,NVDL,NVDX",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-16 00:00:00",
+   "equity": 1083413.631544826,
+   "held": 2,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-19 00:00:00",
+   "equity": 1084594.9393733977,
+   "held": 1,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "ACHR,QUBT",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-20 00:00:00",
+   "equity": 1084816.7605733976,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-21 00:00:00",
+   "equity": 1083732.0505733977,
+   "held": 1,
+   "resting": 3,
+   "signalled": 3,
+   "entered": "CHAI,SYTA,QBTS",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-22 00:00:00",
+   "equity": 1078229.7772400642,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "EDBL",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-23 00:00:00",
+   "equity": 1080665.3587400643,
+   "held": 0,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "ASST",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-27 00:00:00",
+   "equity": 1080665.3587400643,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-28 00:00:00",
+   "equity": 1078506.0137400643,
+   "held": 2,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "LEU,SMR",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-29 00:00:00",
+   "equity": 1087113.9696924451,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-05-30 00:00:00",
+   "equity": 1087093.2717162548,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-02 00:00:00",
+   "equity": 1087915.638343239,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-03 00:00:00",
+   "equity": 1082656.669859112,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-04 00:00:00",
+   "equity": 1083505.1577559374,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-05 00:00:00",
+   "equity": 1081509.6753416518,
+   "held": 3,
+   "resting": 3,
+   "signalled": 3,
+   "entered": "APLD,ASTS,NVTS",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-06 00:00:00",
+   "equity": 1072849.9348099057,
+   "held": 4,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "NBIS",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-09 00:00:00",
+   "equity": 1054792.007641652,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-10 00:00:00",
+   "equity": 1053474.5560416519,
+   "held": 0,
+   "resting": 0,
+   "signalled": 2,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-11 00:00:00",
+   "equity": 1053474.5560416519,
+   "held": 0,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "GRML",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-12 00:00:00",
+   "equity": 1052421.368641652,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "QUBT",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-13 00:00:00",
+   "equity": 1060526.4861654614,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-16 00:00:00",
+   "equity": 1049231.8823654614,
+   "held": 2,
+   "resting": 4,
+   "signalled": 4,
+   "entered": "URGN,UVIX,ASTS,UVXY",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-17 00:00:00",
+   "equity": 1047241.078048001,
+   "held": 2,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-18 00:00:00",
+   "equity": 1037877.8572099057,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-20 00:00:00",
+   "equity": 1035720.0652099057,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-23 00:00:00",
+   "equity": 1035720.0652099057,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-24 00:00:00",
+   "equity": 1035720.0652099057,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-25 00:00:00",
+   "equity": 1033649.7676099057,
+   "held": 2,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "BBAI,AMDL",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-26 00:00:00",
+   "equity": 1028484.256823239,
+   "held": 3,
+   "resting": 2,
+   "signalled": 3,
+   "entered": "NKTR,NVDL",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-27 00:00:00",
+   "equity": 1036489.6300613345,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "CONL",
+   "refused": 0
+  },
+  {
+   "date": "2025-06-30 00:00:00",
+   "equity": 1036383.0263533978,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "CYN",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-01 00:00:00",
+   "equity": 1042557.9865280009,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-02 00:00:00",
+   "equity": 1039271.3361946675,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "TSLQ",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-03 00:00:00",
+   "equity": 1039924.13873435,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "BULL",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-07 00:00:00",
+   "equity": 1050865.818654985,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "CIFR",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-08 00:00:00",
+   "equity": 1049450.1384962546,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-09 00:00:00",
+   "equity": 1044375.4934613339,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "SBET",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-10 00:00:00",
+   "equity": 1042037.871931175,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-11 00:00:00",
+   "equity": 1036328.132931175,
+   "held": 0,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-14 00:00:00",
+   "equity": 1034256.8816311749,
+   "held": 2,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "SBET,ETHU",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-15 00:00:00",
+   "equity": 1025414.8104819685,
+   "held": 3,
+   "resting": 3,
+   "signalled": 4,
+   "entered": "RCAT,SMR,OKLO",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-16 00:00:00",
+   "equity": 1004191.8386930794,
+   "held": 2,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "MP",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-17 00:00:00",
+   "equity": 1002045.872716889,
+   "held": 2,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "SBET",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-18 00:00:00",
+   "equity": 1010240.858316889,
+   "held": 4,
+   "resting": 4,
+   "signalled": 4,
+   "entered": "QS,QBTS,BBAI,APLD",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-21 00:00:00",
+   "equity": 1027454.8597176827,
+   "held": 5,
+   "resting": 5,
+   "signalled": 7,
+   "entered": "SMR,MP,BULL,SOC,BTOG",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-22 00:00:00",
+   "equity": 1033353.5201033971,
+   "held": 6,
+   "resting": 3,
+   "signalled": 3,
+   "entered": "RXRX,NVTS,ETHU",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-23 00:00:00",
+   "equity": 1042061.3792462541,
+   "held": 6,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-24 00:00:00",
+   "equity": 1045060.7882986349,
+   "held": 4,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-25 00:00:00",
+   "equity": 1047093.1734795872,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "IXHL",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-28 00:00:00",
+   "equity": 1054546.8428248256,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-29 00:00:00",
+   "equity": 1064953.5597470477,
+   "held": 4,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "AMDL",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-30 00:00:00",
+   "equity": 1065368.1342708573,
+   "held": 4,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-07-31 00:00:00",
+   "equity": 1063379.695539111,
+   "held": 4,
+   "resting": 3,
+   "signalled": 3,
+   "entered": "WGS,HIMS,CELC",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-01 00:00:00",
+   "equity": 1073467.2411978415,
+   "held": 4,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-04 00:00:00",
+   "equity": 1069306.8029676827,
+   "held": 4,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "UVXY,UVIX",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-05 00:00:00",
+   "equity": 1075019.5944232384,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-06 00:00:00",
+   "equity": 1078279.5864073655,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-07 00:00:00",
+   "equity": 1073097.0915660956,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-08 00:00:00",
+   "equity": 1068985.2254549847,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-11 00:00:00",
+   "equity": 1070498.4481216513,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-12 00:00:00",
+   "equity": 1072060.2140899054,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-13 00:00:00",
+   "equity": 1069597.541661334,
+   "held": 3,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "BTAI,ETHU",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-14 00:00:00",
+   "equity": 1092138.046813715,
+   "held": 4,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "TLRY",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-15 00:00:00",
+   "equity": 1106615.9780756196,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-18 00:00:00",
+   "equity": 1103293.9441073656,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-19 00:00:00",
+   "equity": 1113547.2224486356,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-20 00:00:00",
+   "equity": 1107152.9129676833,
+   "held": 4,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "MSTZ",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-21 00:00:00",
+   "equity": 1106081.8709946675,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-22 00:00:00",
+   "equity": 1091943.7531946674,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-25 00:00:00",
+   "equity": 1091943.7531946674,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-26 00:00:00",
+   "equity": 1090852.2375946674,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "IXHL",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-27 00:00:00",
+   "equity": 1105296.8527216513,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-28 00:00:00",
+   "equity": 1108398.0924359371,
+   "held": 1,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "ECHO,SATS",
+   "refused": 0
+  },
+  {
+   "date": "2025-08-29 00:00:00",
+   "equity": 1104808.3856264132,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "ONDS",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-02 00:00:00",
+   "equity": 1107695.1207597465,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-03 00:00:00",
+   "equity": 1111620.7838946674,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-04 00:00:00",
+   "equity": 1108817.302981969,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-05 00:00:00",
+   "equity": 1104905.6466216515,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "OPEN",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-08 00:00:00",
+   "equity": 1103540.9317962546,
+   "held": 1,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-09 00:00:00",
+   "equity": 1100692.1706930802,
+   "held": 3,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "ECHO,SATS",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-10 00:00:00",
+   "equity": 1101771.3518168896,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-11 00:00:00",
+   "equity": 1104341.6975311753,
+   "held": 3,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "CRWV,APLD",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-12 00:00:00",
+   "equity": 1102187.2111597469,
+   "held": 4,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "WLDS",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-15 00:00:00",
+   "equity": 1117810.5239216518,
+   "held": 4,
+   "resting": 2,
+   "signalled": 4,
+   "entered": "TSLL,ETHU",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-16 00:00:00",
+   "equity": 1121580.761343874,
+   "held": 6,
+   "resting": 2,
+   "signalled": 3,
+   "entered": "TSLT,TSLG",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-17 00:00:00",
+   "equity": 1114566.9349660962,
+   "held": 6,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "BBAI",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-18 00:00:00",
+   "equity": 1112149.0404248263,
+   "held": 6,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "QBTS,RGTI",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-19 00:00:00",
+   "equity": 1082447.6745041916,
+   "held": 5,
+   "resting": 0,
+   "signalled": 3,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-22 00:00:00",
+   "equity": 1081825.296370859,
+   "held": 4,
+   "resting": 2,
+   "signalled": 4,
+   "entered": "BBAI,QUBT",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-23 00:00:00",
+   "equity": 1075518.4214803826,
+   "held": 7,
+   "resting": 3,
+   "signalled": 4,
+   "entered": "APLD,EOSE,NBIS",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-24 00:00:00",
+   "equity": 1076378.1521613353,
+   "held": 6,
+   "resting": 2,
+   "signalled": 3,
+   "entered": "BETR,ONDS",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-25 00:00:00",
+   "equity": 1079387.0611137159,
+   "held": 4,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-26 00:00:00",
+   "equity": 1082648.5691105416,
+   "held": 5,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "QURE",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-29 00:00:00",
+   "equity": 1078198.1195867318,
+   "held": 5,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-09-30 00:00:00",
+   "equity": 1069686.4935454624,
+   "held": 4,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-01 00:00:00",
+   "equity": 1067208.3478883195,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "WOLF",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-02 00:00:00",
+   "equity": 1065539.5718883194,
+   "held": 1,
+   "resting": 3,
+   "signalled": 3,
+   "entered": "PL,ECHO,SATS",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-03 00:00:00",
+   "equity": 1058785.7995914943,
+   "held": 4,
+   "resting": 3,
+   "signalled": 4,
+   "entered": "CONL,NVTS,RGTI",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-06 00:00:00",
+   "equity": 1045566.186769272,
+   "held": 6,
+   "resting": 5,
+   "signalled": 7,
+   "entered": "RR,RGTX,USAR,QUBT,DFLI",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-07 00:00:00",
+   "equity": 1024621.0263533988,
+   "held": 4,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "RCAT",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-08 00:00:00",
+   "equity": 1018682.8115756213,
+   "held": 2,
+   "resting": 3,
+   "signalled": 5,
+   "entered": "SPRB,NNE,RGTI",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-09 00:00:00",
+   "equity": 1012049.5378978435,
+   "held": 2,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "BURU,AMDL",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-10 00:00:00",
+   "equity": 1019208.3470407006,
+   "held": 2,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "WULF,WOLF",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-13 00:00:00",
+   "equity": 1020148.9887470498,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-14 00:00:00",
+   "equity": 1011801.0465994307,
+   "held": 6,
+   "resting": 5,
+   "signalled": 5,
+   "entered": "UAMY,CRML,OKLO,NVTS,MP",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-15 00:00:00",
+   "equity": 1022645.5040470499,
+   "held": 9,
+   "resting": 5,
+   "signalled": 8,
+   "entered": "ABAT,STI,BITF,KEEL,AQMS",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-16 00:00:00",
+   "equity": 1060095.4772883195,
+   "held": 9,
+   "resting": 3,
+   "signalled": 6,
+   "entered": "APLD,FLNC,SMR",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-17 00:00:00",
+   "equity": 1088130.625006573,
+   "held": 9,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-20 00:00:00",
+   "equity": 1087016.5147922873,
+   "held": 9,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "PRAX",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-21 00:00:00",
+   "equity": 1119324.7944065726,
+   "held": 6,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-22 00:00:00",
+   "equity": 1136669.7480494296,
+   "held": 7,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "BYND",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-23 00:00:00",
+   "equity": 1158613.3039065727,
+   "held": 7,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-24 00:00:00",
+   "equity": 1148477.8444700646,
+   "held": 7,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-27 00:00:00",
+   "equity": 1152882.3340414935,
+   "held": 5,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-28 00:00:00",
+   "equity": 1150009.779628795,
+   "held": 5,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "ASST,UMAC",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-29 00:00:00",
+   "equity": 1151189.5450446685,
+   "held": 4,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-30 00:00:00",
+   "equity": 1151043.670354192,
+   "held": 4,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-10-31 00:00:00",
+   "equity": 1150088.2948145096,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-03 00:00:00",
+   "equity": 1157713.7043303824,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-04 00:00:00",
+   "equity": 1162101.5486002234,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-05 00:00:00",
+   "equity": 1158636.3367430805,
+   "held": 4,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "TERN",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-06 00:00:00",
+   "equity": 1162581.9493541918,
+   "held": 4,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-07 00:00:00",
+   "equity": 1157015.4836716522,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-10 00:00:00",
+   "equity": 1154641.6820049856,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-11 00:00:00",
+   "equity": 1156398.2253859378,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-12 00:00:00",
+   "equity": 1153889.7846668903,
+   "held": 4,
+   "resting": 3,
+   "signalled": 3,
+   "entered": "DMRA,GLTO,COGT",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-13 00:00:00",
+   "equity": 1138787.1105002237,
+   "held": 4,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "BBAI",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-14 00:00:00",
+   "equity": 1137370.3772145095,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-17 00:00:00",
+   "equity": 1136593.5545097478,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "MSTZ",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-18 00:00:00",
+   "equity": 1143048.1293668908,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "ETHD",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-19 00:00:00",
+   "equity": 1135993.7269081608,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-20 00:00:00",
+   "equity": 1136868.3845272085,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-21 00:00:00",
+   "equity": 1137024.791281177,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-24 00:00:00",
+   "equity": 1137015.4155986374,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "MNDR",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-25 00:00:00",
+   "equity": 1137061.3413367325,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-26 00:00:00",
+   "equity": 1134418.185222447,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "AEHL",
+   "refused": 0
+  },
+  {
+   "date": "2025-11-28 00:00:00",
+   "equity": 1143156.8772224467,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "KSS",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-01 00:00:00",
+   "equity": 1143118.9732224466,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "SMX",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-02 00:00:00",
+   "equity": 1142617.0212224466,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-03 00:00:00",
+   "equity": 1142578.7492224465,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-04 00:00:00",
+   "equity": 1140838.9678891131,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-05 00:00:00",
+   "equity": 1132903.8574891132,
+   "held": 0,
+   "resting": 4,
+   "signalled": 4,
+   "entered": "QBTS,RGTI,OKLO,QUBT",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-08 00:00:00",
+   "equity": 1132903.8574891132,
+   "held": 0,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "SMX",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-09 00:00:00",
+   "equity": 1130640.1984891132,
+   "held": 2,
+   "resting": 3,
+   "signalled": 3,
+   "entered": "PRAX,ECHO,SATS",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-10 00:00:00",
+   "equity": 1114265.306346256,
+   "held": 2,
+   "resting": 1,
+   "signalled": 3,
+   "entered": "WVE",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-11 00:00:00",
+   "equity": 1108984.016346256,
+   "held": 0,
+   "resting": 0,
+   "signalled": 2,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-12 00:00:00",
+   "equity": 1108984.016346256,
+   "held": 0,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "TERN",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-15 00:00:00",
+   "equity": 1106770.004546256,
+   "held": 2,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "ECHO,SATS",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-16 00:00:00",
+   "equity": 1113644.618324034,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-17 00:00:00",
+   "equity": 1116317.216824034,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-18 00:00:00",
+   "equity": 1114534.0147684785,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-19 00:00:00",
+   "equity": 1104312.0029684785,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-22 00:00:00",
+   "equity": 1104312.0029684785,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-23 00:00:00",
+   "equity": 1104312.0029684785,
+   "held": 0,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "QBTS",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-24 00:00:00",
+   "equity": 1104312.0029684785,
+   "held": 0,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "HYMC",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-26 00:00:00",
+   "equity": 1104312.0029684785,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-29 00:00:00",
+   "equity": 1104312.0029684785,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-30 00:00:00",
+   "equity": 1104312.0029684785,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2025-12-31 00:00:00",
+   "equity": 1104312.0029684785,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-02 00:00:00",
+   "equity": 1104312.0029684785,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-05 00:00:00",
+   "equity": 1103207.8749684785,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "ONDS",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-06 00:00:00",
+   "equity": 1092627.2364922878,
+   "held": 4,
+   "resting": 6,
+   "signalled": 7,
+   "entered": "OKLO,SMR,CIFR,UUUU,IREN,WULF",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-07 00:00:00",
+   "equity": 1089739.9878732406,
+   "held": 3,
+   "resting": 2,
+   "signalled": 3,
+   "entered": "NVTS,NBIS",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-08 00:00:00",
+   "equity": 1083847.8510732402,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "CRML",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-09 00:00:00",
+   "equity": 1080680.8818272084,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-12 00:00:00",
+   "equity": 1073051.5774272084,
+   "held": 1,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "MLTX,BE",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-13 00:00:00",
+   "equity": 1072356.6971414941,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-14 00:00:00",
+   "equity": 1071422.470741494,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-15 00:00:00",
+   "equity": 1071422.470741494,
+   "held": 0,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "ETHU",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-16 00:00:00",
+   "equity": 1070351.470741494,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "ROLR",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-20 00:00:00",
+   "equity": 1097662.582741494,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-21 00:00:00",
+   "equity": 1106988.306741494,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-22 00:00:00",
+   "equity": 1097900.547641494,
+   "held": 5,
+   "resting": 5,
+   "signalled": 5,
+   "entered": "AMDL,BOIL,MUU,CRVS,SNDK",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-23 00:00:00",
+   "equity": 1097094.983186732,
+   "held": 6,
+   "resting": 1,
+   "signalled": 3,
+   "entered": "USAR",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-26 00:00:00",
+   "equity": 1092294.4692645096,
+   "held": 4,
+   "resting": 1,
+   "signalled": 3,
+   "entered": "TMC",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-27 00:00:00",
+   "equity": 1102232.5136533983,
+   "held": 3,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "BNAI",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-28 00:00:00",
+   "equity": 1100621.607915303,
+   "held": 4,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "CRWG",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-29 00:00:00",
+   "equity": 1111129.1946724455,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "AGQ",
+   "refused": 0
+  },
+  {
+   "date": "2026-01-30 00:00:00",
+   "equity": 1150613.7549470486,
+   "held": 4,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "FEED",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-02 00:00:00",
+   "equity": 1179551.9921692708,
+   "held": 4,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "BOIL",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-03 00:00:00",
+   "equity": 1173856.7801391121,
+   "held": 5,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "SNDK",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-04 00:00:00",
+   "equity": 1177507.05815816,
+   "held": 4,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-05 00:00:00",
+   "equity": 1187763.3177486365,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-06 00:00:00",
+   "equity": 1173318.84008197,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "MSTZ",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-09 00:00:00",
+   "equity": 1173935.9721375254,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-10 00:00:00",
+   "equity": 1179249.1975819697,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-11 00:00:00",
+   "equity": 1173965.2592486362,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-12 00:00:00",
+   "equity": 1170438.2638708586,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "NKTR",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-13 00:00:00",
+   "equity": 1168019.9338153033,
+   "held": 2,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-17 00:00:00",
+   "equity": 1168145.93778197,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "FSLY",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-18 00:00:00",
+   "equity": 1166648.268948637,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-19 00:00:00",
+   "equity": 1166775.902737526,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-20 00:00:00",
+   "equity": 1168916.7287930816,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-23 00:00:00",
+   "equity": 1167438.806404193,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-24 00:00:00",
+   "equity": 1164861.7904041929,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "IBRX",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-25 00:00:00",
+   "equity": 1167515.7172899072,
+   "held": 1,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-26 00:00:00",
+   "equity": 1167414.7589962564,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-02-27 00:00:00",
+   "equity": 1166049.2923772088,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-02 00:00:00",
+   "equity": 1162758.553377209,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-03 00:00:00",
+   "equity": 1161595.823777209,
+   "held": 1,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "BATL,HYMC",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-04 00:00:00",
+   "equity": 1176095.3387295902,
+   "held": 1,
+   "resting": 2,
+   "signalled": 3,
+   "entered": "TPET,UVIX",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-05 00:00:00",
+   "equity": 1160398.48912959,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-06 00:00:00",
+   "equity": 1160398.48912959,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-09 00:00:00",
+   "equity": 1159238.2455295902,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "AMPX",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-10 00:00:00",
+   "equity": 1153964.3645010188,
+   "held": 2,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "QURE",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-11 00:00:00",
+   "equity": 1154089.7665422885,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "HIMZ",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-12 00:00:00",
+   "equity": 1156869.6336533995,
+   "held": 2,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-13 00:00:00",
+   "equity": 1159081.1749168916,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-16 00:00:00",
+   "equity": 1157764.1950438756,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-17 00:00:00",
+   "equity": 1158722.6865359389,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-18 00:00:00",
+   "equity": 1161459.4990121294,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-19 00:00:00",
+   "equity": 1159770.280789907,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-20 00:00:00",
+   "equity": 1157144.2099645103,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "LITE",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-23 00:00:00",
+   "equity": 1156236.8307645102,
+   "held": 0,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "ZSL",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-24 00:00:00",
+   "equity": 1156236.8307645102,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-25 00:00:00",
+   "equity": 1156236.8307645102,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-26 00:00:00",
+   "equity": 1156236.8307645102,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-27 00:00:00",
+   "equity": 1156236.8307645102,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-30 00:00:00",
+   "equity": 1156236.8307645102,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-03-31 00:00:00",
+   "equity": 1156236.8307645102,
+   "held": 0,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "SOXS",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-01 00:00:00",
+   "equity": 1156236.8307645102,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-02 00:00:00",
+   "equity": 1156236.8307645102,
+   "held": 0,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "ELAB",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-06 00:00:00",
+   "equity": 1155080.8371645103,
+   "held": 1,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "LUNR,FLY",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-07 00:00:00",
+   "equity": 1152221.132974034,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-08 00:00:00",
+   "equity": 1146611.5649740337,
+   "held": 0,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "AIXI",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-09 00:00:00",
+   "equity": 1140893.6407740337,
+   "held": 5,
+   "resting": 6,
+   "signalled": 6,
+   "entered": "SOXL,HUT,AAOI,FLY,CIFR,KORU",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-10 00:00:00",
+   "equity": 1125677.9970351453,
+   "held": 6,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "BE",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-13 00:00:00",
+   "equity": 1106954.2311859392,
+   "held": 5,
+   "resting": 2,
+   "signalled": 4,
+   "entered": "CRWG,IREN",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-14 00:00:00",
+   "equity": 1064781.385603558,
+   "held": 3,
+   "resting": 2,
+   "signalled": 6,
+   "entered": "SNDK,SOXL",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-15 00:00:00",
+   "equity": 1056215.2986035582,
+   "held": 2,
+   "resting": 1,
+   "signalled": 4,
+   "entered": "BE",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-16 00:00:00",
+   "equity": 1058274.189660701,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "QBTS",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-17 00:00:00",
+   "equity": 1058396.372303558,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "XNDU",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-20 00:00:00",
+   "equity": 1067658.5031845102,
+   "held": 6,
+   "resting": 5,
+   "signalled": 5,
+   "entered": "SOXL,INFQ,BITX,CONL,IONX",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-21 00:00:00",
+   "equity": 1090434.0143892718,
+   "held": 6,
+   "resting": 2,
+   "signalled": 3,
+   "entered": "USAR,PBM",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-22 00:00:00",
+   "equity": 1056023.9234480017,
+   "held": 4,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-23 00:00:00",
+   "equity": 1062596.1900924463,
+   "held": 4,
+   "resting": 3,
+   "signalled": 4,
+   "entered": "SOXL,POET,NVTS",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-24 00:00:00",
+   "equity": 1061798.6460686363,
+   "held": 4,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-27 00:00:00",
+   "equity": 1056745.552251176,
+   "held": 3,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-28 00:00:00",
+   "equity": 1069228.7470368904,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-29 00:00:00",
+   "equity": 1069410.29353689,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-04-30 00:00:00",
+   "equity": 1062124.069473398,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-01 00:00:00",
+   "equity": 1058169.9766416517,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "AKAN",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-04 00:00:00",
+   "equity": 1072685.9381718107,
+   "held": 3,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "AXTI",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-05 00:00:00",
+   "equity": 1078587.525394033,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-06 00:00:00",
+   "equity": 1066383.422241652,
+   "held": 6,
+   "resting": 6,
+   "signalled": 6,
+   "entered": "SNDK,KORU,MUU,IREN,MXL,CIFR",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-07 00:00:00",
+   "equity": 1069451.0625710168,
+   "held": 6,
+   "resting": 3,
+   "signalled": 5,
+   "entered": "HUT,QBTS,IRE",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-08 00:00:00",
+   "equity": 1051994.4607932393,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-11 00:00:00",
+   "equity": 1061812.1383043504,
+   "held": 3,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "FLNC",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-12 00:00:00",
+   "equity": 1065775.1709043507,
+   "held": 5,
+   "resting": 3,
+   "signalled": 4,
+   "entered": "AGQ,WOLF,INOD",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-13 00:00:00",
+   "equity": 1059471.2495932395,
+   "held": 6,
+   "resting": 2,
+   "signalled": 3,
+   "entered": "WOK,MRAM",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-14 00:00:00",
+   "equity": 1062262.4852281609,
+   "held": 5,
+   "resting": 3,
+   "signalled": 4,
+   "entered": "FCEL,TDIC,AAOI",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-15 00:00:00",
+   "equity": 1060188.2841472086,
+   "held": 6,
+   "resting": 6,
+   "signalled": 7,
+   "entered": "AIIO,WOLF,FIGR,RKLX,SNAL,POET",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-18 00:00:00",
+   "equity": 1085561.4859567324,
+   "held": 5,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-19 00:00:00",
+   "equity": 1095834.1503297482,
+   "held": 4,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-20 00:00:00",
+   "equity": 1092991.7205995894,
+   "held": 4,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-21 00:00:00",
+   "equity": 1088063.9280948278,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-22 00:00:00",
+   "equity": 1084163.0047249869,
+   "held": 4,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "ASTX,ASTS",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-26 00:00:00",
+   "equity": 1043590.6835948279,
+   "held": 5,
+   "resting": 4,
+   "signalled": 6,
+   "entered": "RDW,NVTS,QBTX,QBTS",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-27 00:00:00",
+   "equity": 1021592.0664233994,
+   "held": 6,
+   "resting": 5,
+   "signalled": 9,
+   "entered": "SOXL,PRIM,SIDU,AMDL,KEEL",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-28 00:00:00",
+   "equity": 1036562.0627789549,
+   "held": 7,
+   "resting": 3,
+   "signalled": 5,
+   "entered": "ASTX,ASTS,CIFR",
+   "refused": 0
+  },
+  {
+   "date": "2026-05-29 00:00:00",
+   "equity": 1061486.125415463,
+   "held": 8,
+   "resting": 6,
+   "signalled": 6,
+   "entered": "ASTC,SMCI,ONDS,RDW,BTDR,HUT",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-01 00:00:00",
+   "equity": 1073223.3532710192,
+   "held": 7,
+   "resting": 1,
+   "signalled": 3,
+   "entered": "UMAC",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-02 00:00:00",
+   "equity": 1042056.2301075273,
+   "held": 8,
+   "resting": 8,
+   "signalled": 8,
+   "entered": "SPCE,HUBC,NOWL,HUT,NBIS,HIMS,DLLL,ORCX",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-03 00:00:00",
+   "equity": 1026769.950069432,
+   "held": 5,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "MVLL",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-04 00:00:00",
+   "equity": 1070911.4131662578,
+   "held": 4,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "MSTZ",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-05 00:00:00",
+   "equity": 1099315.2867932422,
+   "held": 3,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-08 00:00:00",
+   "equity": 1091987.815396417,
+   "held": 3,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "STI,BTCZ",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-09 00:00:00",
+   "equity": 1100300.726682131,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-10 00:00:00",
+   "equity": 1108152.0693249882,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-11 00:00:00",
+   "equity": 1095200.9915630834,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-12 00:00:00",
+   "equity": 1094507.9742043528,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "VELO",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-15 00:00:00",
+   "equity": 1086115.6634043527,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-16 00:00:00",
+   "equity": 1086115.6634043527,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-17 00:00:00",
+   "equity": 1086115.6634043527,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-18 00:00:00",
+   "equity": 1085029.6202043528,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "EOSE",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-22 00:00:00",
+   "equity": 1086458.3482741942,
+   "held": 4,
+   "resting": 5,
+   "signalled": 5,
+   "entered": "BE,FRMI,CIFR,FCEL,HIMS",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-23 00:00:00",
+   "equity": 1104464.7216424483,
+   "held": 5,
+   "resting": 2,
+   "signalled": 3,
+   "entered": "KEEL,VICR",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-24 00:00:00",
+   "equity": 1103693.0068234007,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-25 00:00:00",
+   "equity": 1106375.212918639,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-26 00:00:00",
+   "equity": 1104483.015934512,
+   "held": 4,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "MSTZ",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-29 00:00:00",
+   "equity": 1120922.6572043533,
+   "held": 4,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "ICLR",
+   "refused": 0
+  },
+  {
+   "date": "2026-06-30 00:00:00",
+   "equity": 1115463.6704741942,
+   "held": 6,
+   "resting": 3,
+   "signalled": 3,
+   "entered": "SLS,OUST,ASTS",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-01 00:00:00",
+   "equity": 1126887.401617051,
+   "held": 7,
+   "resting": 2,
+   "signalled": 3,
+   "entered": "MXL,FCEL",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-02 00:00:00",
+   "equity": 1167454.2461916537,
+   "held": 6,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-06 00:00:00",
+   "equity": 1162281.8174821297,
+   "held": 5,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-07 00:00:00",
+   "equity": 1175788.9318948279,
+   "held": 5,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-08 00:00:00",
+   "equity": 1175741.4036233996,
+   "held": 4,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-09 00:00:00",
+   "equity": 1167892.3982027648,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-10 00:00:00",
+   "equity": 1169867.054478955,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-13 00:00:00",
+   "equity": 1172808.0373360978,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-14 00:00:00",
+   "equity": 1169331.8817805424,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-15 00:00:00",
+   "equity": 1167653.9041805426,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "VEEE",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-16 00:00:00",
+   "equity": 1177413.0721805426,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-17 00:00:00",
+   "equity": 1166446.8385805427,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-20 00:00:00",
+   "equity": 1166446.8385805427,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-21 00:00:00",
+   "equity": 1166446.8385805427,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-22 00:00:00",
+   "equity": 1166446.8385805427,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-23 00:00:00",
+   "equity": 1165280.8193805427,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "SMCI",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-24 00:00:00",
+   "equity": 1167792.3371583205,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "HUT",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-27 00:00:00",
+   "equity": 1168285.6011900667,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-28 00:00:00",
+   "equity": 1170762.5042059396,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-29 00:00:00",
+   "equity": 1173468.9472853045,
+   "held": 3,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "DFNS,SOXS",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-30 00:00:00",
+   "equity": 1110816.3657614952,
+   "held": 3,
+   "resting": 0,
+   "signalled": 2,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-07-31 00:00:00",
+   "equity": 1179943.179555146,
+   "held": 2,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-03 00:00:00",
+   "equity": 1180686.8325075267,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-04 00:00:00",
+   "equity": 1190395.8952218124,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-05 00:00:00",
+   "equity": 1185499.7761551458,
+   "held": 3,
+   "resting": 7,
+   "signalled": 7,
+   "entered": "PLTU,AAOI,AEHR,ALAB,ASTS,SMCI,RGTI",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-06 00:00:00",
+   "equity": 1197092.4800122885,
+   "held": 3,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-07 00:00:00",
+   "equity": 1181440.0680884789,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "RDW",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-10 00:00:00",
+   "equity": 1174016.3499011775,
+   "held": 3,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "RKLB",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-11 00:00:00",
+   "equity": 1176925.4829233997,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-12 00:00:00",
+   "equity": 1176127.3193043522,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-13 00:00:00",
+   "equity": 1175797.867494828,
+   "held": 4,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "SMCI,NBIS",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-14 00:00:00",
+   "equity": 1167346.8390630817,
+   "held": 6,
+   "resting": 2,
+   "signalled": 2,
+   "entered": "SNDK,SNXX",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-17 00:00:00",
+   "equity": 1147020.9317408602,
+   "held": 3,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-18 00:00:00",
+   "equity": 1157830.7664964162,
+   "held": 2,
+   "resting": 3,
+   "signalled": 5,
+   "entered": "WETO,SNDU,STRL",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-19 00:00:00",
+   "equity": 1187187.1049440352,
+   "held": 2,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "IPST",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-20 00:00:00",
+   "equity": 1199695.1749757815,
+   "held": 2,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-21 00:00:00",
+   "equity": 1203481.2781646703,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "ETHU",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-24 00:00:00",
+   "equity": 1201931.0576980037,
+   "held": 3,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "CONL",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-25 00:00:00",
+   "equity": 1205812.1923456227,
+   "held": 2,
+   "resting": 1,
+   "signalled": 2,
+   "entered": "SDOT",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-26 00:00:00",
+   "equity": 1215666.850194829,
+   "held": 2,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "PURR",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-27 00:00:00",
+   "equity": 1214278.8042281624,
+   "held": 1,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-28 00:00:00",
+   "equity": 1213933.9380281623,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-08-31 00:00:00",
+   "equity": 1213933.9380281623,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-09-01 00:00:00",
+   "equity": 1213933.9380281623,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-09-02 00:00:00",
+   "equity": 1213933.9380281623,
+   "held": 0,
+   "resting": 0,
+   "signalled": 0,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-09-03 00:00:00",
+   "equity": 1212720.0660281624,
+   "held": 1,
+   "resting": 1,
+   "signalled": 1,
+   "entered": "BIAF",
+   "refused": 0
+  },
+  {
+   "date": "2026-09-04 00:00:00",
+   "equity": 1203146.4826472101,
+   "held": 1,
+   "resting": 0,
+   "signalled": 1,
+   "entered": "",
+   "refused": 0
+  },
+  {
+   "date": "2026-09-08 00:00:00",
+   "equity": 1219841.93174721,
+   "held": 3,
+   "resting": 3,
+   "signalled": 4,
+   "entered": "BE,SNXX,SNDK",
+   "refused": 0
+  }
+ ],
+ "panel_rows": 75293,
+ "panel_symbols": 288,
+ "signals": 581,
+ "borrow_paid_usd": 27599.22950079361,
+ "exit_mix": {
+  "reversal": 0.4805194805194805,
+  "flat": 0.4675324675324675,
+  "nodata": 0.05194805194805195
+ },
+ "refused_entries": [
+  {
+   "date": "2025-01-13 00:00:00",
+   "ticker": "SILO",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-01-23 00:00:00",
+   "ticker": "ASST",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-01-27 00:00:00",
+   "ticker": "CLEU",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-01-29 00:00:00",
+   "ticker": "KOLD",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-02-04 00:00:00",
+   "ticker": "CYCN",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-02-06 00:00:00",
+   "ticker": "QNTM",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-02-14 00:00:00",
+   "ticker": "TIVC",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-02-14 00:00:00",
+   "ticker": "VBIO",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-03-03 00:00:00",
+   "ticker": "ROOT",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-03-10 00:00:00",
+   "ticker": "PSTV",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-05-13 00:00:00",
+   "ticker": "NXTT",
+   "reason": "slot too small for one share"
+  },
+  {
+   "date": "2025-05-15 00:00:00",
+   "ticker": "TSLT",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-05-27 00:00:00",
+   "ticker": "MNTN",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-05-28 00:00:00",
+   "ticker": "IMNN",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-05-28 00:00:00",
+   "ticker": "LTBR",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-06-04 00:00:00",
+   "ticker": "LYRA",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-06-12 00:00:00",
+   "ticker": "NCNA",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-06-13 00:00:00",
+   "ticker": "SAIL",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-06-17 00:00:00",
+   "ticker": "URGN",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-06-27 00:00:00",
+   "ticker": "PSTV",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-06-30 00:00:00",
+   "ticker": "VOR",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-07-10 00:00:00",
+   "ticker": "SRFM",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-07-11 00:00:00",
+   "ticker": "CLDI",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-07-11 00:00:00",
+   "ticker": "SUGP",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-07-14 00:00:00",
+   "ticker": "SQNS",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-08-27 00:00:00",
+   "ticker": "HCWB",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-09-05 00:00:00",
+   "ticker": "MLYS",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-09-15 00:00:00",
+   "ticker": "AIRE",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-09-17 00:00:00",
+   "ticker": "HSDT",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-09-17 00:00:00",
+   "ticker": "MBAI",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-09-17 00:00:00",
+   "ticker": "TSLG",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-09-17 00:00:00",
+   "ticker": "TSLT",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-09-24 00:00:00",
+   "ticker": "BKKT",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-09-29 00:00:00",
+   "ticker": "DFLI",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-10-02 00:00:00",
+   "ticker": "DPRO",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-10-07 00:00:00",
+   "ticker": "ASNS",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-10-08 00:00:00",
+   "ticker": "SLDP",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-10-14 00:00:00",
+   "ticker": "METC",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-11-04 00:00:00",
+   "ticker": "MSAI",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-11-06 00:00:00",
+   "ticker": "TERN",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-11-24 00:00:00",
+   "ticker": "PACS",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2025-11-28 00:00:00",
+   "ticker": "AEHL",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-01-08 00:00:00",
+   "ticker": "ALMS",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-01-09 00:00:00",
+   "ticker": "GLUE",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-01-09 00:00:00",
+   "ticker": "NVVE",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-01-14 00:00:00",
+   "ticker": "BDSX",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-01-15 00:00:00",
+   "ticker": "GPCR",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-01-16 00:00:00",
+   "ticker": "SEGG",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-01-22 00:00:00",
+   "ticker": "SEGG",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-01-26 00:00:00",
+   "ticker": "CORT",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-01-27 00:00:00",
+   "ticker": "MOVE",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-02-12 00:00:00",
+   "ticker": "ICHR",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-02-18 00:00:00",
+   "ticker": "MLEC",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-03-11 00:00:00",
+   "ticker": "ANTX",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-03-16 00:00:00",
+   "ticker": "LWLG",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-03-25 00:00:00",
+   "ticker": "UGRO",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-03-26 00:00:00",
+   "ticker": "FEED",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-04-10 00:00:00",
+   "ticker": "BBGI",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-04-14 00:00:00",
+   "ticker": "CREG",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-04-15 00:00:00",
+   "ticker": "LWLG",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-04-16 00:00:00",
+   "ticker": "ORCX",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-04-20 00:00:00",
+   "ticker": "WSHP",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-04-21 00:00:00",
+   "ticker": "CONL",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-04-27 00:00:00",
+   "ticker": "TRT",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-04-28 00:00:00",
+   "ticker": "ELPW",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-05-04 00:00:00",
+   "ticker": "MRAM",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-05-06 00:00:00",
+   "ticker": "PN",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-05-07 00:00:00",
+   "ticker": "DGXX",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-05-08 00:00:00",
+   "ticker": "ERNA",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-05-12 00:00:00",
+   "ticker": "AEHL",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-05-12 00:00:00",
+   "ticker": "AIIO",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-05-15 00:00:00",
+   "ticker": "AEHL",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-05-18 00:00:00",
+   "ticker": "SNAL",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-05-27 00:00:00",
+   "ticker": "PCLA",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-05-28 00:00:00",
+   "ticker": "VCIG",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-05-29 00:00:00",
+   "ticker": "BRTX",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-06-02 00:00:00",
+   "ticker": "OLOX",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-06-04 00:00:00",
+   "ticker": "PMI",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-06-05 00:00:00",
+   "ticker": "SDOT",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-06-15 00:00:00",
+   "ticker": "EDHL",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-06-16 00:00:00",
+   "ticker": "MF",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-06-16 00:00:00",
+   "ticker": "UBXG",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-06-23 00:00:00",
+   "ticker": "CDT",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-06-30 00:00:00",
+   "ticker": "ERAS",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-07-07 00:00:00",
+   "ticker": "CLRO",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-07-14 00:00:00",
+   "ticker": "NVVE",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-07-27 00:00:00",
+   "ticker": "ADVB",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-08-07 00:00:00",
+   "ticker": "APPS",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-08-18 00:00:00",
+   "ticker": "CAPR",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-08-28 00:00:00",
+   "ticker": "DAIC",
+   "reason": "left the entry universe overnight"
+  },
+  {
+   "date": "2026-09-08 00:00:00",
+   "ticker": "CHPT",
+   "reason": "left the entry universe overnight"
+  }
+ ]
+}

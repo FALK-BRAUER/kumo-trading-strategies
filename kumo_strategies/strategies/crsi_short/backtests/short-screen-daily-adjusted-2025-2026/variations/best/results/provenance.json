@@ -1,0 +1,24 @@
+{
+ "generated_at": "2026-09-20T02:38:05Z",
+ "git_sha": "2c81fc2c57583ec090544bccb93783db16e590ae",
+ "package": {
+  "python": "3.12.13",
+  "pandas": "3.0.3",
+  "kumo_strategies": "unknown",
+  "nautilus_trader": "1.229.0"
+ },
+ "strategy": "crsi_short",
+ "set": "short-screen-daily-adjusted-2025-2026",
+ "variation": "best",
+ "inputs": [
+  {
+   "path": "bars.parquet",
+   "sha256": "7c02a0bf04befd96adb653e1dbf9579c1824247eca94855898cd21ec0c9e0ff8",
+   "bytes": 2620245
+  }
+ ],
+ "parameters_sha256": "6dfc9858ee476290dc9e92a54c9c2580ed5e8a7fbec23e96da529f2d826fcca0",
+ "argv": [
+  "kumo_strategies/strategies/crsi_short/backtests/short-screen-daily-adjusted-2025-2026/variations/best/run.py"
+ ]
+}

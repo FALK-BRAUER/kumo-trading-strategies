@@ -1,0 +1,39 @@
+{
+ "generated_at": "2026-09-19T16:28:25Z",
+ "git_sha": "0969811bd1d362c6faa3bb0881883c11e4ed86ac",
+ "package": {
+  "python": "3.12.13",
+  "pandas": "3.0.3",
+  "kumo_strategies": "unknown",
+  "nautilus_trader": "1.229.0"
+ },
+ "strategy": "qc345_rotation",
+ "set": "liquid-top100-daily-2024-2026",
+ "variation": "best",
+ "inputs": [
+  {
+   "path": "bars.parquet",
+   "sha256": "11462d691eaf5e022a9487a24a647216ce015c5f6e4b6df02bc5bbfc26bfc571",
+   "bytes": 4567423
+  },
+  {
+   "path": "assets.parquet",
+   "sha256": "bf5cf26c87c6d8c356b1975d38413c4d034565ce438908f27f55d297efef51ba",
+   "bytes": 8022
+  },
+  {
+   "path": "instruments.json",
+   "sha256": "8b60d6d60f2256fe16632d70e49bd7609c06e78a32c4277b023d1b4fa5879d98",
+   "bytes": 71947
+  },
+  {
+   "path": "half_spreads.json",
+   "sha256": "852f112ca8dccd5521b66a629e68176ce1d921c5660fb3f7a80b935a6fbd70d9",
+   "bytes": 13307
+  }
+ ],
+ "parameters_sha256": "67f0120eb501d6509040001af33b949ae93ca5ab3bad7921124e05fc14951c05",
+ "argv": [
+  "src/kumo_strategies/strategies/qc345_rotation/backtests/liquid-top100-daily-2024-2026/variations/best/run.py"
+ ]
+}

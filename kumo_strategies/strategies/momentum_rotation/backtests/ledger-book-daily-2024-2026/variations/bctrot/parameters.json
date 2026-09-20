@@ -1,0 +1,40 @@
+{
+ "variant": "bctrot \u2014 the same engine on BCTROT's clock and gap rule: lookback 40, gap dead band 1.5% (fraction 0.015), open+5m slot (a not-yet-successful variation of momentum, Falk 2026-09-17)",
+ "inputs": {
+  "bars": "bars.parquet",
+  "ledger": "ledger.csv",
+  "ledger_snapshots": "ledger-snapshots.json",
+  "instruments": "instruments.json",
+  "half_spreads": "half_spreads.json"
+ },
+ "source": {
+  "kind": "ledger_book",
+  "lag_days": 1,
+  "max_open_days": 57
+ },
+ "score": {
+  "lookback": 40
+ },
+ "portfolio": {
+  "n_hold": 8,
+  "buffer": 5
+ },
+ "exits": {
+  "give_back_frac": 0.5
+ },
+ "execution": {
+  "decision_slots": [
+   "open+5m"
+  ],
+  "min_abs_gap_pct": 0.015
+ },
+ "run": {
+  "starting_cash": 100000.0,
+  "n_trials": 90,
+  "benchmarks": [
+   "SPY",
+   "QQQ",
+   "GLD"
+  ]
+ }
+}

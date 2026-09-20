@@ -1,0 +1,1409 @@
+symbol,open_date,close_date,close_pct,still_open,close_source
+GLL,,2026-06-25,8.0,False,post-close-without-observed-open
+LNG,,2024-10-11,1.6,False,post-close-without-observed-open
+NCLH,,2024-10-11,13.8,False,post-close-without-observed-open
+NOW,,2024-10-11,4.6,False,post-close-without-observed-open
+SN,,2024-10-11,17.2,False,post-close-without-observed-open
+STX,,2026-01-30,48.7,False,post-close-without-observed-open
+TSLA,,2024-10-11,-1.1,False,post-close-without-observed-open
+AXP,2024-10-11,2025-06-15,,False,absent-from-full-review (re-entered later)
+BRK.B,2024-10-11,2025-06-15,,False,absent-from-full-review (re-entered later)
+BX,2024-10-11,2025-03-29,,False,absent-from-all-full-reviews-after (post open)
+CAT,2024-10-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+CMPO,2024-10-11,2025-03-29,,False,absent-from-all-full-reviews-after (post open)
+DOV,2024-10-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+FAST,2024-10-11,2025-03-29,,False,absent-from-all-full-reviews-after (post open)
+GBX,2024-10-11,2025-03-29,,False,absent-from-all-full-reviews-after (post open)
+RC,2024-10-11,2025-03-29,,False,absent-from-all-full-reviews-after (post open)
+WAB,2024-10-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+TXRH,2024-10-15,2025-03-29,,False,absent-from-all-full-reviews-after (post open)
+AAL,2025-01-11,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+AAPL,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+ALTR,2025-01-11,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+AMMO,2025-01-11,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+AMZN,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+ANET,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+CCL,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+CT,2025-01-11,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ENB,2025-01-11,2025-06-15,,False,absent-from-full-review (re-entered later)
+EXE,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+EXEL,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+EXPE,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+FWONK,2025-01-11,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+JBLU,2025-01-11,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+JWN,2025-01-11,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+KMI,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+KTOS,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+META,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+OWL,2025-01-11,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+PLTR,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+SNCY,2025-01-11,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SQQQ,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+TJX,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+TPX,2025-01-11,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+TSM,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+VRT,2025-01-11,2025-03-29,,False,absent-from-full-review (re-entered later)
+WMT,2025-01-11,2025-06-15,,False,absent-from-full-review (re-entered later)
+EQT,2025-01-16,2025-03-29,,False,absent-from-full-review (re-entered later)
+ET,2025-01-16,2025-03-29,,False,absent-from-full-review (re-entered later)
+HOOD,2025-01-16,2025-03-29,,False,absent-from-full-review (re-entered later)
+CF,2025-01-18,2025-03-29,,False,absent-from-full-review (re-entered later)
+CLS,2025-01-18,2025-06-15,,False,absent-from-full-review (re-entered later)
+FLS,2025-01-18,2025-03-29,,False,absent-from-full-review (re-entered later)
+GOOGL,2025-01-18,2025-03-29,,False,absent-from-full-review (re-entered later)
+KR,2025-01-18,2025-03-29,,False,absent-from-full-review (re-entered later)
+LBRT,2025-01-18,2025-03-29,,False,absent-from-full-review (re-entered later)
+OKE,2025-01-18,2025-03-29,,False,absent-from-full-review (re-entered later)
+TPR,2025-01-18,2025-03-29,,False,absent-from-full-review (re-entered later)
+TRGP,2025-01-18,2025-03-29,,False,absent-from-full-review (re-entered later)
+CTVA,2025-02-17,2025-03-29,,False,absent-from-full-review (re-entered later)
+DBX,2025-02-17,2025-03-29,,False,absent-from-full-review (re-entered later)
+GLD,2025-02-17,2025-03-29,,False,absent-from-full-review (re-entered later)
+IBIT,2025-02-17,2025-03-29,,False,absent-from-full-review (re-entered later)
+TRMB,2025-02-17,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+TSSI,2025-02-17,2025-03-29,,False,absent-from-full-review (re-entered later)
+AEM,2025-02-22,2025-03-29,,False,absent-from-full-review (re-entered later)
+BK,2025-02-22,2025-03-29,,False,absent-from-full-review (re-entered later)
+CAKE,2025-02-22,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CFG,2025-02-22,2025-03-29,,False,absent-from-full-review (re-entered later)
+CMP,2025-02-22,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+DRI,2025-02-22,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+EMR,2025-02-22,2025-06-15,,False,absent-from-full-review (re-entered later)
+ENTG,2025-02-22,2025-03-29,,False,absent-from-full-review (re-entered later)
+ETR,2025-02-22,2025-06-15,,False,absent-from-full-review (re-entered later)
+GILD,2025-02-22,2025-03-29,,False,absent-from-full-review (re-entered later)
+KD,2025-02-22,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+KVUE,2025-02-22,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+NI,2025-02-22,2025-03-29,,False,absent-from-full-review (re-entered later)
+SLM,2025-02-22,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ALKS,2025-03-08,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CEF,2025-03-08,2025-03-29,,False,absent-from-full-review (re-entered later)
+COST,2025-03-08,2025-06-15,,False,absent-from-full-review (re-entered later)
+DVOL,2025-03-08,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+EFC,2025-03-08,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ITZ,2025-03-08,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+KT,2025-03-08,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+LTH,2025-03-08,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+MA,2025-03-08,2025-06-15,,False,absent-from-full-review (re-entered later)
+MP,2025-03-08,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+PLNT,2025-03-08,2025-03-29,,False,absent-from-full-review (re-entered later)
+PRMB,2025-03-08,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+PRVA,2025-03-08,2025-06-15,,False,absent-from-full-review (re-entered later)
+SPG,2025-03-08,2025-06-15,,False,absent-from-full-review (re-entered later)
+STWD,2025-03-08,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+TAP,2025-03-08,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+USFD,2025-03-08,2025-03-29,,False,absent-from-full-review (re-entered later)
+UTI,2025-03-08,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+VTR,2025-03-08,2025-03-29,,False,absent-from-full-review (re-entered later)
+EUFN,2025-03-15,2025-03-29,,False,absent-from-full-review (re-entered later)
+GREEK,2025-03-15,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+NRG,2025-03-15,2025-06-15,,False,absent-from-full-review (re-entered later)
+BECN,2025-03-24,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+COR,2025-03-24,2025-03-29,,False,absent-from-full-review (re-entered later)
+FNV,2025-03-24,2025-06-15,,False,absent-from-full-review (re-entered later)
+NWE,2025-03-24,2025-03-29,,False,absent-from-full-review (re-entered later)
+RTX,2025-03-24,2025-08-23,,False,absent-from-full-review (re-entered later)
+SHLD,2025-03-24,2025-06-15,,False,absent-from-full-review (re-entered later)
+SLV,2025-03-24,2025-06-15,,False,absent-from-full-review (re-entered later)
+SONY,2025-03-24,2025-03-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+AGI,2025-03-29,2025-06-15,,False,absent-from-full-review (re-entered later)
+BCC,2025-03-29,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+BRK.A,2025-03-29,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CCEP,2025-03-29,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+DKS,2025-03-29,2025-06-15,,False,absent-from-full-review (re-entered later)
+ELAD,2025-03-29,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+EUAD,2025-03-29,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+GCOW,2025-03-29,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+GREK,2025-03-29,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+IYZ,2025-03-29,2025-06-15,,False,absent-from-full-review (re-entered later)
+MMA,2025-03-29,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+MWA,2025-03-29,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+NFLX,2025-03-29,2025-06-15,,False,absent-from-full-review (re-entered later)
+NG,2025-03-29,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+PHYS,2025-03-29,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SO,2025-03-29,2025-06-15,,False,absent-from-full-review (re-entered later)
+T,2025-03-29,2025-06-15,,False,absent-from-full-review (re-entered later)
+TIGO,2025-03-29,2025-07-04,,False,absent-from-full-review (re-entered later)
+TMUS,2025-03-29,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+TRIN,2025-03-29,2025-06-15,,False,absent-from-full-review (re-entered later)
+VZ,2025-03-29,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+WELL,2025-03-29,2025-06-28,,False,absent-from-full-review (re-entered later)
+CFG,2025-04-12,2025-06-15,,False,absent-from-full-review (re-entered later)
+CME,2025-04-12,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+EXC,2025-04-12,2025-06-15,,False,absent-from-full-review (re-entered later)
+IDV,2025-04-12,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+KGC,2025-04-12,2025-06-15,,False,absent-from-full-review (re-entered later)
+MNST,2025-04-12,2025-06-28,,False,absent-from-full-review (re-entered later)
+NEM,2025-04-12,2025-06-15,,False,absent-from-full-review (re-entered later)
+OLLI,2025-04-12,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+PAAS,2025-04-12,2025-06-15,,False,absent-from-full-review (re-entered later)
+PBTP,2025-04-12,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+PLNT,2025-04-12,2025-06-28,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+RGLD,2025-04-12,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SHDL,2025-04-12,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+USFD,2025-04-12,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+BJ,2025-04-19,2025-06-15,,False,absent-from-full-review (re-entered later)
+COR,2025-04-19,2025-06-15,,False,absent-from-full-review (re-entered later)
+EFAV,2025-04-19,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+KR,2025-04-19,2025-06-15,,False,absent-from-full-review (re-entered later)
+SAND,2025-04-19,2025-06-15,,False,absent-from-full-review (re-entered later)
+TJX,2025-04-19,2025-06-15,,False,absent-from-full-review (re-entered later)
+VTR,2025-04-19,2025-06-15,,False,absent-from-full-review (re-entered later)
+WPM,2025-04-19,2025-06-15,,False,absent-from-full-review (re-entered later)
+BUD,2025-04-22,2025-06-15,,False,absent-from-all-full-reviews-after (post open)
+CHWY,2025-04-22,2025-06-15,,False,absent-from-all-full-reviews-after (post open)
+EWP,2025-04-22,2025-06-15,,False,absent-from-all-full-reviews-after (post open)
+ADMA,2025-05-10,2025-07-04,,False,absent-from-full-review (re-entered later)
+AEM,2025-05-10,2025-06-15,,False,absent-from-full-review (re-entered later)
+AM,2025-05-10,2025-06-15,,False,absent-from-full-review (re-entered later)
+ATGE,2025-05-10,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CEF,2025-05-10,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CHT,2025-05-10,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+DB,2025-05-10,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+DRS,2025-05-10,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+DUK,2025-05-10,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ED,2025-05-10,2025-08-23,,False,absent-from-full-review (re-entered later)
+EGO,2025-05-10,2025-06-15,,False,absent-from-full-review (re-entered later)
+HALO,2025-05-10,2025-06-15,,False,absent-from-full-review (re-entered later)
+HIG,2025-05-10,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ICL,2025-05-10,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+LAUR,2025-05-10,2025-06-15,,False,absent-from-full-review (re-entered later)
+NWG,2025-05-10,2025-06-15,,False,absent-from-full-review (re-entered later)
+PRDO,2025-05-10,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+RSG,2025-05-10,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SKWD,2025-05-10,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+TRV,2025-05-10,2025-06-15,,False,absent-from-full-review (re-entered later)
+ATO,2025-05-25,2025-06-15,,False,absent-from-full-review (re-entered later)
+EA,2025-05-25,2025-06-28,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ICE,2025-05-25,2025-07-04,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+JPM,2025-05-25,2025-06-15,,False,absent-from-full-review (re-entered later)
+NVDA,2025-05-25,2025-06-15,,False,absent-from-full-review (re-entered later)
+SAN,2025-05-25,2025-06-15,,False,absent-from-full-review (re-entered later)
+UGL,2025-05-25,2025-06-15,,False,absent-from-full-review (re-entered later)
+V,2025-05-25,2025-06-28,,False,absent-from-full-review (re-entered later)
+VRSN,2025-05-25,2025-06-28,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+WRB,2025-05-25,2025-06-15,,False,absent-from-full-review (re-entered later)
+CDE,2025-05-31,2025-06-15,,False,absent-from-full-review (re-entered later)
+CTVA,2025-05-31,2025-07-13,,False,absent-from-full-review (re-entered later)
+CVNA,2025-05-31,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+GEV,2025-05-31,2025-07-04,,False,absent-from-full-review (re-entered later)
+KTOS,2025-05-31,2025-06-15,,False,absent-from-full-review (re-entered later)
+MOS,2025-05-31,2025-06-28,,False,absent-from-full-review (re-entered later)
+NXT,2025-05-31,2025-06-15,,False,absent-from-full-review (re-entered later)
+PLTR,2025-05-31,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+PSMT,2025-05-31,2025-06-28,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ABT,2025-06-08,2025-06-15,,False,absent-from-full-review (re-entered later)
+GDXJ,2025-06-08,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+MQ,2025-06-08,2025-06-15,,False,absent-from-full-review (re-entered later)
+ODD,2025-06-08,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SFM,2025-06-08,2025-06-28,,False,absent-from-full-review (re-entered later)
+WAY,2025-06-08,2025-06-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+AVGO,2025-06-15,2025-06-28,,False,absent-from-full-review (re-entered later)
+BWXT,2025-06-15,2025-06-28,,False,absent-from-full-review (re-entered later)
+DASH,2025-06-15,2025-06-28,,False,absent-from-full-review (re-entered later)
+E,2025-06-15,2025-06-28,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+HOOD,2025-06-15,2025-07-04,,False,absent-from-full-review (re-entered later)
+IMAX,2025-06-15,2025-06-28,,False,absent-from-full-review (re-entered later)
+IMO,2025-06-15,2025-06-28,,False,absent-from-full-review (re-entered later)
+KAR,2025-06-15,2025-06-28,,False,absent-from-full-review (re-entered later)
+KRMN,2025-06-15,2025-06-28,,False,absent-from-full-review (re-entered later)
+LNG,2025-06-15,2025-06-28,,False,absent-from-full-review (re-entered later)
+MSFT,2025-06-15,2025-07-04,,False,absent-from-full-review (re-entered later)
+NTR,2025-06-15,2025-06-28,,False,absent-from-full-review (re-entered later)
+ORCL,2025-06-15,2025-06-28,,False,absent-from-full-review (re-entered later)
+PM,2025-06-15,2025-06-28,,False,absent-from-full-review (re-entered later)
+RRC,2025-06-15,2025-06-28,,False,absent-from-full-review (re-entered later)
+SCHW,2025-06-15,2025-06-28,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+WM,2025-06-15,2025-08-23,,False,absent-from-full-review (re-entered later)
+ABT,2025-06-28,2025-07-04,,False,absent-from-full-review (re-entered later)
+AEM,2025-06-28,2025-07-04,,False,absent-from-full-review (re-entered later)
+APH,2025-06-28,2025-07-04,,False,absent-from-full-review (re-entered later)
+AZEK,2025-06-28,2025-07-04,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CPNG,2025-06-28,2025-08-23,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CRWD,2025-06-28,2025-07-13,,False,absent-from-full-review (re-entered later)
+CSCO,2025-06-28,2025-07-04,,False,absent-from-full-review (re-entered later)
+GE,2025-06-28,2025-07-04,,False,absent-from-full-review (re-entered later)
+GS,2025-06-28,2025-07-04,,False,absent-from-full-review (re-entered later)
+HWM,2025-06-28,2025-07-04,,False,absent-from-full-review (re-entered later)
+JPM,2025-06-28,2025-07-04,,False,absent-from-full-review (re-entered later)
+KR,2025-06-28,2025-07-04,,False,absent-from-full-review (re-entered later)
+KTOS,2025-06-28,2025-08-23,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+META,2025-06-28,2025-07-13,,False,absent-from-full-review (re-entered later)
+MQ,2025-06-28,2025-07-04,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+NEM,2025-06-28,2025-07-04,,False,absent-from-full-review (re-entered later)
+NFLX,2025-06-28,2025-07-04,,False,absent-from-full-review (re-entered later)
+NVDA,2025-06-28,2025-07-04,,False,absent-from-full-review (re-entered later)
+RCL,2025-06-28,2025-07-04,,False,absent-from-full-review (re-entered later)
+SEZL,2025-06-28,2025-07-13,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SPG,2025-06-28,2025-07-04,,False,absent-from-full-review (re-entered later)
+T,2025-06-28,2025-08-23,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+URBN,2025-06-28,2025-07-04,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+WMB,2025-06-28,2025-09-27,,False,absent-from-full-review (re-entered later)
+ADI,2025-07-04,2025-07-13,,False,absent-from-full-review (re-entered later)
+AMZN,2025-07-04,2025-07-13,,False,absent-from-full-review (re-entered later)
+AXP,2025-07-04,2025-07-13,,False,absent-from-full-review (re-entered later)
+BJ,2025-07-04,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+BJRI,2025-07-04,2025-09-27,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+C,2025-07-04,2025-07-13,,False,absent-from-full-review (re-entered later)
+CAE,2025-07-04,2025-07-13,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CNM,2025-07-04,2025-07-13,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ES,2025-07-04,2025-08-23,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+FNV,2025-07-04,2025-08-23,,False,absent-from-full-review (re-entered later)
+IMAX,2025-07-04,2025-09-27,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+KAR,2025-07-04,2025-07-13,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+LAUR,2025-07-04,2025-07-13,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+LIF,2025-07-04,2025-07-13,,False,absent-from-full-review (re-entered later)
+LNG,2025-07-04,2025-08-31,,False,absent-from-full-review (re-entered later)
+NVT,2025-07-04,2025-08-23,,False,absent-from-full-review (re-entered later)
+PWR,2025-07-04,2025-07-13,,False,absent-from-full-review (re-entered later)
+ROK,2025-07-04,2025-07-13,,False,absent-from-full-review (re-entered later)
+SFM,2025-07-04,2025-08-31,,False,absent-from-full-review (re-entered later)
+TSM,2025-07-04,2026-01-20,5.2,False,post
+TSSI,2025-07-04,2025-08-23,,False,absent-from-full-review (re-entered later)
+TXN,2025-07-04,2025-07-13,,False,absent-from-full-review (re-entered later)
+UGL,2025-07-04,2025-09-27,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+VIK,2025-07-04,2025-07-13,,False,absent-from-full-review (re-entered later)
+WELL,2025-07-04,2025-07-13,,False,absent-from-full-review (re-entered later)
+WFC,2025-07-04,2025-11-29,,False,absent-from-full-review (re-entered later)
+WRB,2025-07-04,2025-08-31,,False,absent-from-full-review (re-entered later)
+ADMA,2025-07-13,2025-08-31,,False,absent-from-full-review (re-entered later)
+AER,2025-07-13,2025-08-23,,False,absent-from-full-review (re-entered later)
+ANSS,2025-07-13,2025-08-23,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+APH,2025-07-13,2025-08-31,,False,absent-from-full-review (re-entered later)
+AVAV,2025-07-13,2025-08-23,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+AVGO,2025-07-13,2025-08-23,,False,absent-from-full-review (re-entered later)
+BLK,2025-07-13,2025-08-31,,False,absent-from-full-review (re-entered later)
+GE,2025-07-13,2025-08-23,,False,absent-from-full-review (re-entered later)
+GS,2025-07-13,2025-08-23,,False,absent-from-full-review (re-entered later)
+KR,2025-07-13,2025-08-31,,False,absent-from-full-review (re-entered later)
+LEU,2025-07-13,2025-08-23,,False,absent-from-full-review (re-entered later)
+MAG,2025-07-13,2025-08-23,,False,absent-from-full-review (re-entered later)
+MNST,2025-07-13,2025-08-23,,False,absent-from-full-review (re-entered later)
+MSFT,2025-07-13,2025-08-23,,False,absent-from-full-review (re-entered later)
+MU,2025-07-13,2025-08-23,,False,absent-from-full-review (re-entered later)
+NEM,2025-07-13,2025-08-23,,False,absent-from-full-review (re-entered later)
+NVDA,2025-07-13,2025-08-31,,False,absent-from-full-review (re-entered later)
+SARO,2025-07-13,2025-08-23,,False,absent-from-full-review (re-entered later)
+SLV,2025-07-13,2025-08-23,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SPG,2025-07-13,2025-09-27,,False,absent-from-full-review (re-entered later)
+SU,2025-07-13,2025-08-31,,False,absent-from-full-review (re-entered later)
+PAA,2025-07-26,2025-08-23,,False,absent-from-full-review (re-entered later)
+ROK,2025-07-26,2025-08-23,,False,absent-from-full-review (re-entered later)
+RPRX,2025-07-26,2025-08-23,,False,absent-from-full-review (re-entered later)
+SVM,2025-07-26,2025-08-23,,False,absent-from-full-review (re-entered later)
+V,2025-07-26,2025-08-23,,False,absent-from-full-review (re-entered later)
+ABT,2025-08-02,2025-08-23,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+APG,2025-08-02,2025-08-23,,False,absent-from-full-review (re-entered later)
+ATO,2025-08-02,2025-08-23,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+AU,2025-08-02,2025-08-23,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+AWI,2025-08-02,2025-08-23,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CBRE,2025-08-02,2025-08-23,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+GEV,2025-08-02,2025-08-23,,False,absent-from-full-review (re-entered later)
+HPE,2025-08-02,2025-08-23,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+IYZ,2025-08-02,2025-08-31,,False,absent-from-full-review (re-entered later)
+JNJ,2025-08-02,2025-08-23,,False,absent-from-full-review (re-entered later)
+LHX,2025-08-02,2025-08-23,,False,absent-from-full-review (re-entered later)
+NI,2025-08-02,2025-08-23,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SQQQ,2025-08-02,2025-08-23,,False,absent-from-full-review (re-entered later)
+WPM,2025-08-02,2025-08-23,,False,absent-from-full-review (re-entered later)
+AEM,2025-08-17,2025-08-23,,False,absent-from-full-review (re-entered later)
+AXP,2025-08-17,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ESLT,2025-08-17,2025-09-27,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+GOOGL,2025-08-17,2025-09-27,,False,absent-from-full-review (re-entered later)
+MA,2025-08-17,2025-08-31,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+MLM,2025-08-17,2025-08-23,,False,absent-from-full-review (re-entered later)
+NTES,2025-08-17,2025-08-31,,False,absent-from-full-review (re-entered later)
+VST,2025-08-17,2025-08-23,,False,absent-from-full-review (re-entered later)
+ADM,2025-08-23,2025-08-31,,False,absent-from-full-review (re-entered later)
+AMD,2025-08-23,2025-11-29,,False,absent-from-full-review (re-entered later)
+AMZN,2025-08-23,2025-08-31,,False,absent-from-full-review (re-entered later)
+BZ,2025-08-23,2025-09-27,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ELP,2025-08-23,2025-08-31,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+LIF,2025-08-23,2025-09-27,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+MRP,2025-08-23,2025-08-31,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+NFLX,2025-08-23,2025-09-27,,False,absent-from-full-review (re-entered later)
+NRG,2025-08-23,2025-08-31,,False,absent-from-full-review (re-entered later)
+ORA,2025-08-23,2025-08-31,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+RCL,2025-08-23,2025-09-27,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+RSI,2025-08-23,2025-09-27,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SO,2025-08-23,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+TPR,2025-08-23,2025-08-31,,False,absent-from-full-review (re-entered later)
+UBER,2025-08-23,2025-08-31,,False,absent-from-full-review (re-entered later)
+VLY,2025-08-23,2025-08-31,,False,absent-from-full-review (re-entered later)
+ACAD,2025-08-31,2025-09-27,,False,absent-from-full-review (re-entered later)
+AEM,2025-08-31,2025-11-29,,False,absent-from-full-review (re-entered later)
+AER,2025-08-31,2025-09-27,,False,absent-from-full-review (re-entered later)
+BP,2025-08-31,2025-11-29,,False,absent-from-full-review (re-entered later)
+CVX,2025-08-31,2025-09-27,,False,absent-from-full-review (re-entered later)
+ED,2025-08-31,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ETR,2025-08-31,2025-09-27,,False,absent-from-full-review (re-entered later)
+GS,2025-08-31,2025-09-27,,False,absent-from-full-review (re-entered later)
+IAG,2025-08-31,2025-09-27,,False,absent-from-full-review (re-entered later)
+JBL,2025-08-31,2025-09-27,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+MAG,2025-08-31,2025-09-27,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+MPWR,2025-08-31,2025-09-27,,False,absent-from-full-review (re-entered later)
+NEM,2025-08-31,2025-09-27,,False,absent-from-full-review (re-entered later)
+SARO,2025-08-31,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SSRM,2025-08-31,2025-09-27,,False,absent-from-full-review (re-entered later)
+THC,2025-08-31,2025-09-27,,False,absent-from-full-review (re-entered later)
+TSSI,2025-08-31,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+VST,2025-08-31,2025-11-29,,False,absent-from-full-review (re-entered later)
+WM,2025-08-31,2025-09-27,,False,absent-from-full-review (re-entered later)
+ADMA,2025-09-07,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+AMZN,2025-09-07,2025-11-29,,False,absent-from-full-review (re-entered later)
+APH,2025-09-07,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CEG,2025-09-07,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+IMO,2025-09-07,2025-09-27,,False,absent-from-full-review (re-entered later)
+IYZ,2025-09-07,2025-09-27,,False,absent-from-full-review (re-entered later)
+KR,2025-09-07,2025-09-27,,False,absent-from-full-review (re-entered later)
+KRMN,2025-09-07,2025-09-27,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+MLM,2025-09-07,2025-09-27,,False,absent-from-full-review (re-entered later)
+NRG,2025-09-07,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+TPR,2025-09-07,2025-09-27,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+V,2025-09-07,2026-03-27,-17.7,False,post
+VLY,2025-09-07,2025-09-27,,False,absent-from-full-review (re-entered later)
+VIK,2025-09-11,2025-09-27,,False,absent-from-full-review (re-entered later)
+AFRM,2025-09-13,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+EXC,2025-09-13,2025-09-27,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+KLAC,2025-09-13,2025-09-27,,False,absent-from-full-review (re-entered later)
+LOW,2025-09-13,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+MSFT,2025-09-13,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+NGD,2025-09-13,2025-11-29,,False,absent-from-full-review (re-entered later)
+NTES,2025-09-13,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+PPLT,2025-09-13,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+RDDT,2025-09-13,2025-09-27,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+WRB,2025-09-13,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+AG,2025-09-27,2025-11-29,,False,absent-from-full-review (re-entered later)
+BK,2025-09-27,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+BLD,2025-09-27,2025-11-29,,False,absent-from-full-review (re-entered later)
+CDE,2025-09-27,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CENX,2025-09-27,2025-11-29,,False,absent-from-full-review (re-entered later)
+DTE,2025-09-27,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+EMX,2025-09-27,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ENB,2025-09-27,2026-01-18,,False,absent-from-full-review (re-entered later)
+EXPE,2025-09-27,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+GEV,2025-09-27,2025-11-29,,False,absent-from-full-review (re-entered later)
+KGC,2025-09-27,2025-11-29,,False,absent-from-full-review (re-entered later)
+MOS,2025-09-27,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+NBIS,2025-09-27,2025-11-29,,False,absent-from-full-review (re-entered later)
+NTRS,2025-09-27,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+NVDA,2025-09-27,2026-02-03,-6.3,False,post
+SFM,2025-09-27,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SII,2025-09-27,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+TLN,2025-09-27,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+UBER,2025-09-27,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+WPM,2025-09-27,2025-11-29,,False,absent-from-full-review (re-entered later)
+CMI,2025-10-02,2025-11-29,,False,absent-from-full-review (re-entered later)
+J,2025-10-02,2025-11-29,,False,absent-from-all-full-reviews-after (post open)
+BXP,2025-10-04,2026-02-12,-20.3,False,post
+CRH,2025-10-04,2026-01-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ETR,2025-10-04,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+HBM,2025-10-04,2025-11-29,,False,absent-from-full-review (re-entered later)
+NFLX,2025-10-04,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+NVST,2025-10-04,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+TKO,2025-10-04,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ANET,2025-10-13,2025-11-29,,False,absent-from-full-review (re-entered later)
+BMNR,2025-10-13,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+DASH,2025-10-13,2025-11-29,,False,absent-from-full-review (re-entered later)
+EGO,2025-10-13,2025-11-29,,False,absent-from-full-review (re-entered later)
+FEZ,2025-10-13,2025-11-29,,False,absent-from-full-review (re-entered later)
+GOOGL,2025-10-13,2026-03-01,,False,absent-from-full-review (re-entered later)
+IBIT,2025-10-13,2025-11-29,,False,absent-from-full-review (re-entered later)
+LEU,2025-10-13,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+PTCT,2025-10-13,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+QQQ,2025-10-13,2025-11-29,,False,absent-from-full-review (re-entered later)
+SAND,2025-10-13,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SPY,2025-10-13,2025-11-29,,False,absent-from-full-review (re-entered later)
+THC,2025-10-13,2025-11-29,,False,absent-from-full-review (re-entered later)
+BLK,2025-10-25,2025-11-29,,False,absent-from-full-review (re-entered later)
+ELAN,2025-10-25,2025-11-29,,False,absent-from-full-review (re-entered later)
+FR,2025-10-25,2026-01-18,,False,absent-from-full-review (re-entered later)
+GE,2025-10-25,2025-11-29,,False,absent-from-full-review (re-entered later)
+GILD,2025-10-25,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+HCA,2025-10-25,2026-01-28,0.0,False,post
+ORCL,2025-10-25,2026-01-18,,False,absent-from-full-review (re-entered later)
+WM,2025-10-25,2026-01-18,,False,absent-from-full-review (re-entered later)
+BE,2025-11-01,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CRDO,2025-11-01,2026-01-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CSCO,2025-11-01,2025-11-29,,False,absent-from-full-review (re-entered later)
+ENSG,2025-11-01,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+FSLR,2025-11-01,2025-11-29,,False,absent-from-full-review (re-entered later)
+LH,2025-11-01,2025-11-29,,False,absent-from-full-review (re-entered later)
+PRCH,2025-11-01,2025-11-29,,False,absent-from-full-review (re-entered later)
+ROST,2025-11-01,2025-11-29,,False,absent-from-full-review (re-entered later)
+VTR,2025-11-01,2025-11-29,,False,absent-from-full-review (re-entered later)
+WELL,2025-11-01,2025-11-29,,False,absent-from-full-review (re-entered later)
+A,2025-11-08,2025-11-29,,False,absent-from-full-review (re-entered later)
+CELH,2025-11-08,2026-01-25,,False,absent-from-full-review (re-entered later)
+CM,2025-11-08,2025-11-29,,False,absent-from-full-review (re-entered later)
+FNV,2025-11-08,2025-11-29,,False,absent-from-full-review (re-entered later)
+GD,2025-11-08,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+HWM,2025-11-08,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+KLAC,2025-11-08,2025-11-29,,False,absent-from-full-review (re-entered later)
+MCK,2025-11-08,2025-11-29,,False,absent-from-full-review (re-entered later)
+MKSI,2025-11-08,2025-11-29,,False,absent-from-full-review (re-entered later)
+NXT,2025-11-08,2025-11-29,,False,absent-from-full-review (re-entered later)
+SSRM,2025-11-08,2026-01-23,11.1,False,post
+XOM,2025-11-08,2025-11-29,,False,absent-from-full-review (re-entered later)
+CTRE,2025-11-10,2025-11-29,,False,absent-from-all-full-reviews-after (post open)
+PARR,2025-11-10,2025-11-29,,False,absent-from-full-review (re-entered later)
+TTI,2025-11-10,2025-11-29,,False,absent-from-all-full-reviews-after (post open)
+VLO,2025-11-10,2025-11-29,,False,absent-from-full-review (re-entered later)
+AEP,2025-11-15,2025-11-29,,False,absent-from-full-review (re-entered later)
+DINO,2025-11-15,2026-02-09,7.3,False,post
+GLD,2025-11-15,2025-11-29,,False,absent-from-full-review (re-entered later)
+GSK,2025-11-15,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+NWG,2025-11-15,2025-11-29,,False,absent-from-full-review (re-entered later)
+STLD,2025-11-15,2025-11-29,,False,absent-from-full-review (re-entered later)
+AGQ,2025-11-18,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+AHR,2025-11-18,2025-11-29,,False,absent-from-all-full-reviews-after (post open)
+INDV,2025-11-18,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+LLY,2025-11-19,2025-11-29,,False,absent-from-full-review (re-entered later)
+PSLV,2025-11-19,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+SQQQ,2025-11-20,2025-11-29,,False,absent-from-full-review (re-entered later)
+TJX,2025-11-20,2025-11-29,,False,absent-from-full-review (re-entered later)
+AUPH,2025-11-21,2026-01-18,,False,absent-from-full-review (re-entered later)
+AZN,2025-11-21,2025-11-29,,False,absent-from-all-full-reviews-after (post open)
+MDT,2025-11-21,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+NTRA,2025-11-21,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+ORI,2025-11-21,2025-11-29,,False,absent-from-all-full-reviews-after (post open)
+RGEN,2025-11-21,2025-11-29,,False,absent-from-all-full-reviews-after (post open)
+TMO,2025-11-21,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+IMO,2025-11-22,2025-11-29,,False,absent-from-full-review (re-entered later)
+JNJ,2025-11-22,2026-01-18,,False,absent-from-full-review (re-entered later)
+NUE,2025-11-22,2025-11-29,,False,absent-from-full-review (re-entered later)
+SOLV,2025-11-22,2025-11-29,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+B,2025-11-24,2026-01-18,,False,absent-from-full-review (re-entered later)
+BTSG,2025-11-24,2025-11-29,,False,absent-from-full-review (re-entered later)
+CAH,2025-11-24,2026-02-04,2.2,False,post
+IDXX,2025-11-24,2025-11-29,,False,absent-from-full-review (re-entered later)
+INCY,2025-11-24,2026-01-23,0.0,False,post
+PTGX,2025-11-24,2025-11-29,,False,absent-from-all-full-reviews-after (post open)
+UHS,2025-11-24,2025-11-29,,False,absent-from-all-full-reviews-after (post open)
+VCYT,2025-11-24,2025-11-29,,False,absent-from-full-review (re-entered later)
+COR,2025-11-25,2025-11-29,,False,absent-from-full-review (re-entered later)
+GCT,2025-11-25,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+GTX,2025-11-25,2026-02-18,25.6,False,post
+IQV,2025-11-25,2026-01-13,5.1,False,post
+MD,2025-11-25,2026-01-25,,False,absent-from-full-review (re-entered later)
+EQT,2025-11-26,2026-01-18,,False,absent-from-full-review (re-entered later)
+EXE,2025-11-26,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+CNQ,2025-11-28,2025-11-29,,False,absent-from-full-review (re-entered later)
+CELL,2025-11-29,2026-01-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+DVN,2025-12-01,2026-01-18,,False,absent-from-full-review (re-entered later)
+PARR,2025-12-01,2026-03-09,8.3,False,post
+VLO,2025-12-01,2026-01-18,,False,absent-from-full-review (re-entered later)
+AER,2025-12-02,2026-01-18,,False,absent-from-full-review (re-entered later)
+AA,2025-12-03,2026-01-18,,False,absent-from-full-review (re-entered later)
+CVE,2025-12-03,2026-01-18,,False,absent-from-full-review (re-entered later)
+IBB,2025-12-03,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+IHE,2025-12-03,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+C,2025-12-04,2026-01-13,10.7,False,post
+CM,2025-12-04,2026-01-18,,False,absent-from-full-review (re-entered later)
+DCI,2025-12-04,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+JPM,2025-12-04,2026-01-18,,False,absent-from-full-review (re-entered later)
+MPLX,2025-12-04,2026-01-18,,False,absent-from-full-review (re-entered later)
+WFC,2025-12-04,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+DGII,2025-12-05,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+FIVE,2025-12-05,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+ITRN,2025-12-05,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+CIEN,2025-12-08,2026-01-18,,False,absent-from-full-review (re-entered later)
+CLS,2025-12-08,2026-01-18,,False,absent-from-full-review (re-entered later)
+FLEX,2025-12-09,2026-01-18,,False,absent-from-full-review (re-entered later)
+GLW,2025-12-09,2026-01-18,,False,absent-from-full-review (re-entered later)
+HL,2025-12-09,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+HOOD,2025-12-09,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+LITE,2025-12-09,2026-01-18,,False,absent-from-full-review (re-entered later)
+NEM,2025-12-09,2026-01-14,12.9,False,post
+PRM,2025-12-09,2026-01-14,0.0,False,post
+TTMI,2025-12-09,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+KGC,2025-12-11,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+RL,2025-12-11,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+ASM,2025-12-16,2026-01-20,22.0,False,post
+GLUE,2025-12-16,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+IAG,2025-12-16,2026-01-18,,False,absent-from-full-review (re-entered later)
+OUT,2025-12-16,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+CB,2025-12-17,2026-01-13,-1.1,False,post
+ACAD,2025-12-19,2026-01-13,-1.3,False,post
+AGI,2025-12-19,2026-01-14,14.8,False,post
+CTSH,2025-12-19,2026-01-18,,False,absent-from-full-review (re-entered later)
+GS,2025-12-19,2026-01-20,5.9,False,post
+ITRG,2025-12-19,2026-01-29,0.0,False,post
+A,2025-12-20,2026-03-01,,False,absent-from-full-review (re-entered later)
+DASH,2025-12-20,2026-01-25,,False,absent-from-full-review (re-entered later)
+FNV,2025-12-20,2026-01-14,11.3,False,post
+IDXX,2025-12-20,2026-01-18,,False,absent-from-full-review (re-entered later)
+IMO,2025-12-20,2026-01-22,3.1,False,post
+PRCH,2025-12-20,2026-01-30,-55.1,False,post
+EGO,2025-12-22,2026-01-14,13.4,False,post
+FCX,2025-12-22,2026-01-18,,False,absent-from-full-review (re-entered later)
+ERO,2025-12-23,2026-01-18,,False,absent-from-full-review (re-entered later)
+RY,2025-12-23,2026-01-18,,False,absent-from-full-review (re-entered later)
+TSEM,2025-12-23,2026-01-18,,False,absent-from-full-review (re-entered later)
+PATH,2025-12-24,2026-01-18,,False,absent-from-all-full-reviews-after (post open)
+RYAAY,2025-12-24,2026-01-18,,False,absent-from-full-review (re-entered later)
+TECK,2025-12-26,2026-01-18,,False,absent-from-full-review (re-entered later)
+TRX,2025-12-26,2026-01-26,47.7,False,post
+AEM,2025-12-27,2026-01-18,,False,absent-from-full-review (re-entered later)
+AG,2025-12-27,2026-01-18,,False,absent-from-full-review (re-entered later)
+BTSG,2025-12-27,2026-01-13,11.2,False,post
+CGAU,2025-12-27,2026-01-18,,False,absent-from-full-review (re-entered later)
+ATI,2026-01-02,2026-01-18,,False,absent-from-full-review (re-entered later)
+FSLR,2026-01-02,2026-05-10,,False,absent-from-full-review (re-entered later)
+TER,2026-01-02,2026-01-20,13.1,False,post
+WDC,2026-01-02,2026-01-18,,False,absent-from-full-review (re-entered later)
+CGBL,2026-01-03,2026-01-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CMI,2026-01-03,2026-01-14,32.3,False,post
+RSP,2026-01-03,2026-01-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+VTV,2026-01-03,2026-01-18,,False,absent-from-full-review (re-entered later)
+AMAT,2026-01-05,2026-01-15,18.9,False,post
+AMKR,2026-01-05,2026-01-14,11.1,False,post
+CENX,2026-01-05,2026-01-13,12.9,False,post
+FORM,2026-01-05,2026-01-13,24.2,False,post
+HBM,2026-01-05,2026-01-18,,False,absent-from-full-review (re-entered later)
+VICR,2026-01-05,2026-01-23,31.1,False,post
+CMC,2026-01-06,2026-02-11,15.5,False,post
+LRCX,2026-01-06,2026-01-15,15.1,False,post
+LSCC,2026-01-06,2026-01-15,8.1,False,post
+MT,2026-01-06,2026-01-22,14.1,False,post
+MNST,2026-01-07,2026-01-18,,False,absent-from-full-review (re-entered later)
+TJX,2026-01-07,2026-01-22,0.0,False,post
+STLD,2026-01-08,2026-01-18,,False,absent-from-full-review (re-entered later)
+TXT,2026-01-08,2026-01-28,0.0,False,post
+ACMR,2026-01-09,2026-01-13,7.6,False,post
+ASML,2026-01-09,2026-01-15,9.5,False,post
+MKSI,2026-01-09,2026-02-03,28.7,False,post
+SCCO,2026-01-09,2026-01-30,23.6,False,post
+WBD,2026-01-09,2026-02-03,-5.2,False,post
+FGD,2026-01-14,2026-01-18,,False,absent-from-full-review (re-entered later)
+FLS,2026-01-15,2026-01-18,,False,absent-from-full-review (re-entered later)
+HLMN,2026-01-15,2026-01-18,,False,absent-from-full-review (re-entered later)
+MS,2026-01-15,2026-01-18,,False,absent-from-full-review (re-entered later)
+PCAR,2026-01-15,2026-02-04,8.1,False,post
+GE,2026-01-16,2026-03-03,5.1,False,post
+PFSI,2026-01-16,2026-01-30,-25.7,False,post
+SVM,2026-01-16,2026-01-30,8.4,False,post
+AGNC,2026-01-18,2026-01-25,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+BLD,2026-01-18,2026-01-20,6.2,False,post
+CAT,2026-01-18,2026-01-23,3.9,False,post
+COR,2026-01-18,2026-02-04,-4.5,False,post
+EUFN,2026-01-18,2026-01-25,,False,absent-from-full-review (re-entered later)
+MCK,2026-01-18,2026-02-06,11.5,False,post
+RTX,2026-01-18,2026-02-24,5.3,False,post
+TAN,2026-01-18,2026-01-25,,False,absent-from-full-review (re-entered later)
+EQX,2026-01-20,2026-01-30,0.0,False,post
+ILMN,2026-01-20,2026-01-30,0.0,False,post
+PLTM,2026-01-20,2026-01-30,-3.1,False,post
+XPH,2026-01-20,2026-02-11,2.4,False,post
+ABEV,2026-01-22,2026-01-28,6.5,False,post
+NGD,2026-01-22,2026-01-30,-2.1,False,post
+PAAS,2026-01-22,2026-01-30,0.0,False,post
+AMZN,2026-01-23,2026-03-01,,False,absent-from-full-review (re-entered later)
+B,2026-01-23,2026-01-30,-1.6,False,post
+DBB,2026-01-23,2026-01-29,7.1,False,post
+ERO,2026-01-23,2026-01-30,12.5,False,post
+ADM,2026-01-25,2026-03-01,,False,absent-from-full-review (re-entered later)
+CTSH,2026-01-25,2026-02-03,-4.7,False,post
+ENB,2026-01-25,2026-02-06,2.1,False,post
+FGD,2026-01-25,2026-03-13,2.7,False,post
+HBM,2026-01-25,2026-01-30,21.9,False,post
+HLMN,2026-01-25,2026-02-17,-1.9,False,post
+MNST,2026-01-25,2026-02-04,5.4,False,post
+ORCL,2026-01-25,2026-01-29,-45.2,False,post
+RYAAY,2026-01-25,2026-03-21,,False,absent-from-full-review (re-entered later)
+STLD,2026-01-25,2026-02-05,12.7,False,post
+WM,2026-01-25,2026-07-17,0.0,False,post
+WMT,2026-01-25,2026-02-05,6.8,False,post
+ASX,2026-01-26,2026-01-29,0.0,False,post
+NXT,2026-01-26,2026-01-28,24.2,False,post
+VIST,2026-01-26,2026-01-30,13.2,False,post
+GEV,2026-01-27,2026-03-01,,False,absent-from-full-review (re-entered later)
+SHLD,2026-01-27,2026-03-01,,False,absent-from-all-full-reviews-after (post open)
+UFO,2026-01-27,2026-03-01,,False,absent-from-all-full-reviews-after (post open)
+ADI,2026-01-28,2026-02-18,12.6,False,post
+COP,2026-01-28,2026-02-23,10.2,False,post
+DVN,2026-01-28,2026-02-09,10.8,False,post
+NXPI,2026-01-28,2026-02-19,0.0,False,post
+CVE,2026-01-29,2026-02-12,7.7,False,post
+HON,2026-01-29,2026-03-01,,False,absent-from-full-review (re-entered later)
+SQQQ,2026-01-30,2026-02-02,1.1,False,post
+CELH,2026-01-31,2026-03-15,,False,absent-from-full-review (re-entered later)
+BORR,2026-02-02,2026-02-10,21.6,False,post
+DOLE,2026-02-02,2026-02-10,0.0,False,post
+HLF,2026-02-02,2026-02-09,-3.6,False,post
+KNX,2026-02-02,2026-02-12,6.4,False,post
+LBRT,2026-02-02,2026-02-10,0.0,False,post
+MAMA,2026-02-02,2026-02-19,0.0,False,post
+TEX,2026-02-02,2026-03-01,,False,absent-from-all-full-reviews-after (post open)
+BLD,2026-02-03,2026-03-01,,False,absent-from-all-full-reviews-after (post open)
+CAT,2026-02-03,2026-03-01,,False,absent-from-full-review (re-entered later)
+CNQ,2026-02-03,2026-02-12,9.7,False,post
+EPD,2026-02-03,2026-02-17,8.7,False,post
+SCCO,2026-02-03,2026-02-12,0.0,False,post
+SQQQ,2026-02-03,2026-02-06,10.6,False,post
+STX,2026-02-03,2026-03-01,,False,absent-from-full-review (re-entered later)
+TAN,2026-02-03,2026-02-19,15.1,False,post
+TSM,2026-02-03,2026-03-01,,False,absent-from-full-review (re-entered later)
+ERX,2026-02-04,2026-02-12,12.5,False,post
+NE,2026-02-04,2026-02-09,15.4,False,post
+NOBL,2026-02-04,2026-03-05,0.0,False,post
+SCHD,2026-02-04,2026-02-25,3.4,False,post
+KGS,2026-02-05,2026-02-09,15.8,False,post
+KMI,2026-02-05,2026-03-05,12.6,False,post
+WMB,2026-02-05,2026-02-10,6.8,False,post
+BA,2026-02-06,2026-03-01,,False,absent-from-all-full-reviews-after (post open)
+CENX,2026-02-06,2026-03-01,,False,absent-from-full-review (re-entered later)
+ELAN,2026-02-06,2026-03-01,,False,absent-from-all-full-reviews-after (post open)
+EMR,2026-02-06,2026-03-01,,False,absent-from-all-full-reviews-after (post open)
+FTI,2026-02-06,2026-03-01,,False,absent-from-full-review (re-entered later)
+DASH,2026-02-07,2026-03-27,-44.7,False,post
+FLS,2026-02-07,2026-02-23,15.1,False,post
+IDXX,2026-02-07,2026-03-01,,False,absent-from-full-review (re-entered later)
+MNST,2026-02-07,2026-03-02,2.5,False,post
+WMT,2026-02-07,2026-03-01,,False,absent-from-full-review (re-entered later)
+APG,2026-02-09,2026-02-12,2.9,False,post
+HASI,2026-02-09,2026-02-12,3.1,False,post
+IAG,2026-02-09,2026-02-12,11.2,False,post
+SWK,2026-02-09,2026-02-12,2.2,False,post
+AM,2026-02-10,2026-03-10,14.8,False,post
+CCL,2026-02-10,2026-02-12,0.0,False,post
+ENTG,2026-02-10,2026-02-12,6.7,False,post
+FE,2026-02-10,2026-02-24,7.1,False,post
+MLM,2026-02-10,2026-02-11,-2.5,False,post
+NCLH,2026-02-10,2026-03-01,,False,absent-from-full-review (re-entered later)
+NTR,2026-02-10,2026-02-12,2.1,False,post
+ON,2026-02-10,2026-02-12,10.3,False,post
+FERG,2026-02-11,2026-03-01,,False,absent-from-full-review (re-entered later)
+PM,2026-02-11,2026-03-03,0.0,False,post
+SQQQ,2026-02-12,2026-03-01,,False,absent-from-full-review (re-entered later)
+CSX,2026-02-14,2026-03-01,,False,absent-from-full-review (re-entered later)
+FTAI,2026-02-14,2026-03-03,0.0,False,post
+HXL,2026-02-14,2026-03-05,0.0,False,post
+LMT,2026-02-14,2026-03-01,,False,absent-from-full-review (re-entered later)
+MD,2026-02-14,2026-05-10,,False,absent-from-full-review (re-entered later)
+CCL,2026-02-17,2026-05-10,,False,absent-from-full-review (re-entered later)
+LUV,2026-02-17,2026-03-01,,False,absent-from-full-review (re-entered later)
+NXT,2026-02-17,2026-04-29,0.0,False,post
+PH,2026-02-17,2026-03-01,,False,absent-from-full-review (re-entered later)
+VIK,2026-02-17,2026-04-08,4.3,False,post
+CNX,2026-02-18,2026-03-06,7.8,False,post
+DG,2026-02-18,2026-03-05,0.0,False,post
+HAL,2026-02-18,2026-03-05,0.0,False,post
+MU,2026-02-18,2026-03-18,15.5,False,post
+TV,2026-02-18,2026-03-01,,False,absent-from-full-review (re-entered later)
+BORR,2026-02-19,2026-03-05,2.2,False,post
+CVE,2026-02-19,2026-03-10,0.0,False,post
+EGY,2026-02-19,2026-03-09,11.9,False,post
+MUR,2026-02-19,2026-03-06,3.9,False,post
+OVV,2026-02-19,2026-03-06,6.2,False,post
+OXY,2026-02-19,2026-03-06,8.8,False,post
+PBR,2026-02-19,2026-03-20,24.9,False,post
+SDRL,2026-02-19,2026-03-02,0.0,False,post
+SU,2026-02-19,2026-03-01,,False,absent-from-full-review (re-entered later)
+VIST,2026-02-19,2026-03-09,13.2,False,post
+FDX,2026-02-20,2026-03-05,0.0,False,post
+OIS,2026-02-20,2026-02-25,31.7,False,post
+OSK,2026-02-20,2026-03-01,,False,absent-from-full-review (re-entered later)
+TTC,2026-02-20,2026-02-25,0.0,False,post
+AEM,2026-02-23,2026-03-01,,False,absent-from-full-review (re-entered later)
+AG,2026-02-23,2026-03-05,0.0,False,post
+BTG,2026-02-23,2026-02-27,14.5,False,post
+FNV,2026-02-23,2026-03-02,8.6,False,post
+FSM,2026-02-23,2026-05-10,,False,absent-from-full-review (re-entered later)
+HSY,2026-02-23,2026-03-05,1.1,False,post
+KO,2026-02-23,2026-03-01,,False,absent-from-full-review (re-entered later)
+MO,2026-02-23,2026-03-05,0.0,False,post
+PEP,2026-02-23,2026-03-01,,False,absent-from-full-review (re-entered later)
+WPM,2026-02-23,2026-03-01,,False,absent-from-full-review (re-entered later)
+AMX,2026-02-24,2026-03-06,0.0,False,post
+SBS,2026-02-25,2026-03-15,,False,absent-from-full-review (re-entered later)
+TIGO,2026-02-26,2026-03-06,4.4,False,post
+CGAU,2026-02-27,2026-03-15,,False,absent-from-full-review (re-entered later)
+TRGP,2026-02-27,2026-03-10,0.0,False,post
+XOM,2026-02-27,2026-03-21,,False,absent-from-full-review (re-entered later)
+MPLX,2026-03-01,2026-03-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+MPC,2026-03-02,2026-03-25,6.2,False,post
+CF,2026-03-03,2026-03-09,11.5,False,post
+SQQQ,2026-03-03,2026-03-03,-3.9,False,post
+HST,2026-03-04,2026-03-15,,False,absent-from-full-review (re-entered later)
+LAND,2026-03-04,2026-05-10,,False,absent-from-full-review (re-entered later)
+LMT,2026-03-06,2026-07-18,,False,absent-from-full-review (re-entered later)
+NTR,2026-03-06,2026-03-20,0.0,False,post
+AEM,2026-03-07,2026-05-31,,False,absent-from-full-review (re-entered later)
+AMX,2026-03-07,2026-03-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+BORR,2026-03-07,2026-03-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+DG,2026-03-07,2026-03-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+DVN,2026-03-07,2026-03-15,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+FERG,2026-03-07,2026-03-15,,False,absent-from-full-review (re-entered later)
+GEV,2026-03-07,2026-03-15,,False,absent-from-full-review (re-entered later)
+MRVL,2026-03-07,2026-03-11,6.5,False,post
+NCLH,2026-03-07,2026-05-25,,False,absent-from-full-review (re-entered later)
+OSK,2026-03-07,2026-03-15,,False,absent-from-full-review (re-entered later)
+PEP,2026-03-07,2026-05-10,,False,absent-from-full-review (re-entered later)
+SU,2026-03-07,2026-03-30,19.2,False,post
+TV,2026-03-07,2026-03-21,,False,absent-from-full-review (re-entered later)
+WPM,2026-03-07,2026-05-31,,False,absent-from-full-review (re-entered later)
+ADEA,2026-03-09,2026-03-11,11.4,False,post
+BP,2026-03-09,2026-03-19,14.7,False,post
+HTO,2026-03-09,2026-03-15,,False,absent-from-full-review (re-entered later)
+ISSC,2026-03-09,2026-03-19,2.9,False,post
+LBRT,2026-03-09,2026-03-17,14.7,False,post
+LHX,2026-03-09,2026-03-20,-0.5,False,post
+NYT,2026-03-09,2026-03-26,5.6,False,post
+REX,2026-03-09,2026-03-19,10.2,False,post
+VRT,2026-03-09,2026-03-11,6.9,False,post
+CLH,2026-03-10,2026-03-20,0.0,False,post
+HON,2026-03-10,2026-03-12,0.0,False,post
+JNJ,2026-03-10,2026-03-15,,False,absent-from-full-review (re-entered later)
+TDAY,2026-03-10,2026-03-21,,False,absent-from-full-review (re-entered later)
+AA,2026-03-11,2026-03-17,6.9,False,post
+DAR,2026-03-11,2026-03-20,4.9,False,post
+RPRX,2026-03-11,2026-03-21,,False,absent-from-full-review (re-entered later)
+APA,2026-03-12,2026-03-15,,False,absent-from-full-review (re-entered later)
+CF,2026-03-12,2026-03-21,,False,absent-from-full-review (re-entered later)
+COP,2026-03-12,2026-03-15,,False,absent-from-all-full-reviews-after (post open)
+CTRA,2026-03-12,2026-03-15,,False,absent-from-all-full-reviews-after (post open)
+CVX,2026-03-12,2026-03-15,,False,absent-from-all-full-reviews-after (post open)
+EQNR,2026-03-12,2026-03-18,11.1,False,post
+KMI,2026-03-12,2026-03-15,,False,absent-from-full-review (re-entered later)
+OXY,2026-03-12,2026-03-15,,False,absent-from-all-full-reviews-after (post open)
+SDOW,2026-03-12,2026-03-25,3.8,False,post
+VIST,2026-03-12,2026-03-20,19.1,False,post
+PARR,2026-03-13,2026-03-15,,False,absent-from-full-review (re-entered later)
+A,2026-03-15,2026-05-31,,False,absent-from-full-review (re-entered later)
+PH,2026-03-15,2026-04-17,2.6,False,post
+PHI,2026-03-15,2026-03-21,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CNX,2026-03-16,2026-04-08,-8.8,False,post
+RRC,2026-03-16,2026-03-30,9.6,False,post
+ADM,2026-03-17,2026-03-30,2.4,False,post
+AGRO,2026-03-17,2026-03-20,24.4,False,post
+BG,2026-03-17,2026-03-20,-1.5,False,post
+GPRK,2026-03-17,2026-03-31,5.8,False,post
+MGY,2026-03-17,2026-04-09,-4.5,False,post
+NE,2026-03-17,2026-03-21,,False,absent-from-full-review (re-entered later)
+CRGY,2026-03-18,2026-05-10,,False,absent-from-all-full-reviews-after (post open)
+FANG,2026-03-18,2026-03-27,8.8,False,post
+CNQ,2026-03-19,2026-03-31,0.0,False,post
+KR,2026-03-19,2026-03-31,0.0,False,post
+PSX,2026-03-19,2026-03-31,5.1,False,post
+QSR,2026-03-19,2026-03-24,2.4,False,post
+AMPY,2026-03-20,2026-03-30,1.5,False,post
+MTDR,2026-03-20,2026-05-10,,False,absent-from-all-full-reviews-after (post open)
+CELH,2026-03-21,2026-03-26,-42.9,False,post
+CGAU,2026-03-21,2026-05-25,,False,absent-from-full-review (re-entered later)
+EPD,2026-03-21,2026-05-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+FERG,2026-03-21,2026-04-23,0.0,False,post
+GEV,2026-03-21,2026-04-23,23.2,False,post
+HST,2026-03-21,2026-04-23,5.3,False,post
+IDXX,2026-03-21,2026-05-31,,False,absent-from-full-review (re-entered later)
+JNJ,2026-03-21,2026-04-07,-1.2,False,post
+KO,2026-03-21,2026-04-28,0.0,False,post
+LUV,2026-03-21,2026-05-10,,False,absent-from-full-review (re-entered later)
+OSK,2026-03-21,2026-05-25,,False,absent-from-full-review (re-entered later)
+PARR,2026-03-21,2026-04-01,17.8,False,post
+APEI,2026-03-23,2026-05-10,,False,absent-from-all-full-reviews-after (post open)
+EQT,2026-03-23,2026-03-30,6.2,False,post
+HAL,2026-03-23,2026-03-30,9.2,False,post
+KGS,2026-03-23,2026-03-30,5.2,False,post
+KMI,2026-03-23,2026-03-31,0.0,False,post
+LNG,2026-03-23,2026-03-31,5.6,False,post
+PBR,2026-03-23,2026-04-08,-0.7,False,post
+RES,2026-03-23,2026-04-01,5.1,False,post
+TS,2026-03-23,2026-04-08,2.5,False,post
+CHRD,2026-03-24,2026-03-31,9.4,False,post
+DINO,2026-03-24,2026-04-01,1.6,False,post
+OVV,2026-03-24,2026-04-09,-4.1,False,post
+SEI,2026-03-24,2026-03-30,0.0,False,post
+UCO,2026-03-24,2026-04-08,-8.9,False,post
+MUR,2026-03-25,2026-03-30,10.1,False,post
+PAGP,2026-03-26,2026-04-01,-0.5,False,post
+SQQQ,2026-03-26,2026-04-08,-13.4,False,post
+VLO,2026-03-26,2026-04-01,1.0,False,post
+ET,2026-03-27,2026-03-31,0.0,False,post
+CF,2026-03-28,2026-03-30,8.3,False,post
+HTO,2026-03-28,2026-05-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+NE,2026-03-28,2026-03-30,8.1,False,post
+NYT,2026-03-28,2026-04-09,-0.5,False,post
+RYAAY,2026-03-28,2026-07-10,,False,absent-from-full-review (re-entered later)
+TDAY,2026-03-28,2026-04-08,7.8,False,post
+TV,2026-03-28,2026-05-25,,False,absent-from-full-review (re-entered later)
+XOM,2026-03-28,2026-04-01,10.2,False,post
+EC,2026-03-30,2026-04-01,-1.4,False,post
+NORW,2026-03-30,2026-04-17,2.4,False,post
+VIST,2026-03-30,2026-04-01,-1.5,False,post
+TIGO,2026-03-31,2026-04-15,6.5,False,post
+UGP,2026-03-31,2026-04-08,4.7,False,post
+CIEN,2026-04-01,2026-04-23,28.1,False,post
+FORM,2026-04-01,2026-04-10,22.2,False,post
+LITE,2026-04-01,2026-04-10,23.5,False,post
+NVT,2026-04-01,2026-05-10,,False,absent-from-all-full-reviews-after (post open)
+WDC,2026-04-01,2026-04-09,20.1,False,post
+APA,2026-04-05,2026-04-07,30.1,False,post
+EQNR,2026-04-05,2026-05-10,,False,absent-from-full-review (re-entered later)
+SBS,2026-04-05,2026-04-10,12.9,False,post
+CVE,2026-04-06,2026-04-09,0.0,False,post
+HAFN,2026-04-06,2026-04-10,2.1,False,post
+KEX,2026-04-06,2026-04-10,4.5,False,post
+KRP,2026-04-06,2026-04-09,-1.1,False,post
+MEOH,2026-04-06,2026-04-09,0.5,False,post
+SU,2026-04-06,2026-04-09,-1.3,False,post
+AA,2026-04-07,2026-06-03,15.2,False,post
+AEP,2026-04-08,2026-04-17,1.6,False,post
+BWXT,2026-04-08,2026-04-21,1.8,False,post
+CRS,2026-04-08,2026-04-23,3.1,False,post
+EIX,2026-04-08,2026-05-28,-1.2,False,post
+INTC,2026-04-08,2026-04-10,13.8,False,post
+MRK,2026-04-08,2026-05-10,,False,absent-from-full-review (re-entered later)
+TJX,2026-04-08,2026-04-16,1.1,False,post
+UTHR,2026-04-08,2026-04-10,0.0,False,post
+GLW,2026-04-09,2026-04-23,0.0,False,post
+ROST,2026-04-09,2026-05-10,,False,absent-from-all-full-reviews-after (post open)
+SLB,2026-04-09,2026-04-29,7.1,False,post
+WMT,2026-04-09,2026-05-11,1.5,False,post
+AMKR,2026-04-10,2026-04-15,6.1,False,post
+FMX,2026-04-10,2026-05-10,,False,absent-from-all-full-reviews-after (post open)
+LRCX,2026-04-10,2026-05-10,,False,absent-from-full-review (re-entered later)
+MTZ,2026-04-10,2026-04-29,4.2,False,post
+SQM,2026-04-10,2026-04-17,14.5,False,post
+FLEX,2026-04-11,2026-04-15,8.7,False,post
+FTI,2026-04-11,2026-05-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+EFXT,2026-04-13,2026-04-16,8.8,False,post
+KGS,2026-04-13,2026-05-04,11.6,False,post
+C,2026-04-14,2026-04-23,0.0,False,post
+CGNX,2026-04-14,2026-05-27,25.6,False,post
+GSAT,2026-04-14,2026-05-10,,False,absent-from-all-full-reviews-after (post open)
+KIM,2026-04-14,2026-05-13,0.0,False,post
+MU,2026-04-14,2026-04-23,10.2,False,post
+PUMP,2026-04-15,2026-04-27,23.1,False,post
+AMD,2026-04-16,2026-04-23,15.4,False,post
+LITE,2026-04-16,2026-05-10,,False,absent-from-full-review (re-entered later)
+WTTR,2026-04-16,2026-05-20,35.6,False,post
+ADI,2026-04-17,2026-04-23,12.5,False,post
+AER,2026-04-17,2026-05-11,2.5,False,post
+CPRX,2026-04-17,2026-04-27,22.8,False,post
+CSX,2026-04-17,2026-05-10,,False,absent-from-full-review (re-entered later)
+FCX,2026-04-17,2026-06-04,0.0,False,post
+SPNT,2026-04-17,2026-05-04,2.0,False,post
+AROC,2026-04-18,2026-05-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ANET,2026-04-20,2026-04-23,7.0,False,post
+DELL,2026-04-20,2026-04-23,9.1,False,post
+POWI,2026-04-20,2026-04-22,28.5,False,post
+SKYT,2026-04-20,2026-05-10,,False,absent-from-full-review (re-entered later)
+BNO,2026-04-21,2026-05-01,20.1,False,post
+AMAT,2026-04-22,2026-05-19,2.5,False,post
+TSM,2026-04-22,2026-04-27,10.9,False,post
+DOV,2026-04-23,2026-05-10,,False,absent-from-all-full-reviews-after (post open)
+MPWR,2026-04-23,2026-05-12,2.9,False,post
+PWR,2026-04-23,2026-04-30,17.1,False,post
+VRT,2026-04-23,2026-05-19,6.2,False,post
+WAB,2026-04-23,2026-05-10,,False,absent-from-full-review (re-entered later)
+ECO,2026-04-24,2026-05-13,8.3,False,post
+ESI,2026-04-24,2026-05-10,,False,absent-from-full-review (re-entered later)
+EWY,2026-04-24,2026-05-22,19.7,False,post
+WFRD,2026-04-24,2026-05-10,,False,absent-from-all-full-reviews-after (post open)
+TT,2026-04-25,2026-05-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+GOOGL,2026-04-27,2026-06-02,6.1,False,post
+MU,2026-04-27,2026-05-10,,False,absent-from-full-review (re-entered later)
+NVDA,2026-04-27,2026-05-10,,False,absent-from-full-review (re-entered later)
+BEN,2026-04-28,2026-05-10,,False,absent-from-full-review (re-entered later)
+NUE,2026-04-28,2026-05-19,1.5,False,post
+CSCO,2026-04-29,2026-05-06,6.6,False,post
+ASML,2026-04-30,2026-05-04,-1.5,False,post
+ASX,2026-04-30,2026-05-10,,False,absent-from-full-review (re-entered later)
+AVGO,2026-04-30,2026-05-12,1.2,False,post
+EWC,2026-04-30,2026-05-10,,False,absent-from-full-review (re-entered later)
+EWT,2026-04-30,2026-06-05,14.1,False,post
+GEV,2026-04-30,2026-05-01,-0.7,False,post
+GRID,2026-04-30,2026-05-27,3.2,False,post
+KEYS,2026-04-30,2026-05-28,0.0,False,post
+LSCC,2026-04-30,2026-05-21,15.9,False,post
+MRVL,2026-04-30,2026-05-10,,False,absent-from-full-review (re-entered later)
+MTSI,2026-04-30,2026-05-07,25.2,False,post
+PENG,2026-04-30,2026-05-13,74.4,False,post
+TSEM,2026-04-30,2026-05-10,,False,absent-from-full-review (re-entered later)
+CBOE,2026-05-01,2026-05-10,,False,absent-from-all-full-reviews-after (post open)
+CIEN,2026-05-01,2026-05-22,13.1,False,post
+NBIS,2026-05-01,2026-05-10,,False,absent-from-full-review (re-entered later)
+RNG,2026-05-01,2026-05-12,0.0,False,post
+CLS,2026-05-02,2026-05-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+STM,2026-05-02,2026-05-21,15.1,False,post
+WDC,2026-05-02,2026-06-05,19.5,False,post
+BNO,2026-05-04,2026-05-10,,False,absent-from-full-review (re-entered later)
+CRUS,2026-05-05,2026-05-14,0.0,False,post
+DOCN,2026-05-05,2026-05-07,21.1,False,post
+UMC,2026-05-05,2026-05-07,12.5,False,post
+RBC,2026-05-06,2026-06-16,0.0,False,post
+TX,2026-05-06,2026-05-28,7.1,False,post
+AAPL,2026-05-08,2026-05-25,,False,absent-from-full-review (re-entered later)
+AMD,2026-05-08,2026-05-25,,False,absent-from-full-review (re-entered later)
+KLAC,2026-05-08,2026-06-05,10.3,False,post
+LBRT,2026-05-08,2026-05-21,0.0,False,post
+CENX,2026-05-10,2026-06-05,27.8,False,post
+FSRL,2026-05-10,2026-05-25,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+BWA,2026-05-11,2026-06-05,21.6,False,post
+CAMT,2026-05-11,2026-05-12,-7.1,False,post
+ESI,2026-05-11,2026-05-25,,False,absent-from-full-review (re-entered later)
+ICLN,2026-05-11,2026-05-25,,False,absent-from-full-review (re-entered later)
+KGS,2026-05-11,2026-05-21,1.5,False,post
+Q,2026-05-11,2026-05-27,11.4,False,post
+SOLS,2026-05-11,2026-05-25,,False,absent-from-all-full-reviews-after (post open)
+VICR,2026-05-11,2026-06-05,3.5,False,post
+HAL,2026-05-12,2026-05-26,2.1,False,post
+SFL,2026-05-12,2026-05-25,,False,absent-from-all-full-reviews-after (post open)
+COHR,2026-05-13,2026-06-03,9.4,False,post
+IRDM,2026-05-13,2026-06-03,22.1,False,post
+MRVL,2026-05-13,2026-05-27,27.2,False,post
+MRX,2026-05-13,2026-07-10,,False,absent-from-all-full-reviews-after (post open)
+ON,2026-05-13,2026-05-27,17.3,False,post
+CMBT,2026-05-19,2026-05-26,4.1,False,post
+COST,2026-05-19,2026-07-18,,False,absent-from-full-review (re-entered later)
+PENG,2026-05-19,2026-05-27,20.1,False,post
+ENPH,2026-05-20,2026-06-01,37.7,False,post
+LPG,2026-05-20,2026-05-26,0.0,False,post
+SHLS,2026-05-20,2026-06-05,29.8,False,post
+TRP,2026-05-20,2026-05-26,1.3,False,post
+SNDK,2026-05-21,2026-06-02,20.8,False,post
+CSTM,2026-05-22,2026-06-10,3.5,False,post
+GNRC,2026-05-22,2026-05-25,,False,absent-from-full-review (re-entered later)
+TXN,2026-05-22,2026-05-27,6.5,False,post
+ASX,2026-05-25,2026-06-05,16.6,False,post
+CSX,2026-05-25,2026-06-04,8.5,False,post
+FSLR,2026-05-25,2026-05-26,0.0,False,post
+FSM,2026-05-25,2026-05-31,,False,absent-from-full-review (re-entered later)
+IYZ,2026-05-25,2026-07-10,,False,absent-from-full-review (re-entered later)
+LAND,2026-05-25,2026-07-10,,False,absent-from-full-review (re-entered later)
+LITE,2026-05-25,2026-05-26,1.6,False,post
+LUV,2026-05-25,2026-06-26,0.0,False,post
+MD,2026-05-25,2026-05-31,,False,absent-from-full-review (re-entered later)
+MRK,2026-05-25,2026-05-26,1.8,False,post
+NVDA,2026-05-25,2026-06-05,2.5,False,post
+SKYT,2026-05-25,2026-06-04,16.7,False,post
+TSEM,2026-05-25,2026-06-03,29.6,False,post
+ACMR,2026-05-26,2026-06-01,4.9,False,post
+CAT,2026-05-26,2026-06-10,1.5,False,post
+CNI,2026-05-26,2026-06-12,14.1,False,post
+CP,2026-05-26,2026-06-04,1.7,False,post
+FLEX,2026-05-26,2026-06-10,7.1,False,post
+MU,2026-05-26,2026-05-27,15.9,False,post
+NUE,2026-05-26,2026-05-31,,False,absent-from-all-full-reviews-after (post open)
+RS,2026-05-26,2026-06-12,12.6,False,post
+STLD,2026-05-26,2026-07-10,,False,absent-from-all-full-reviews-after (post open)
+AMZN,2026-05-27,2026-06-01,0.0,False,post
+FSTR,2026-05-27,2026-06-01,6.2,False,post
+NSC,2026-05-27,2026-07-07,0.5,False,post
+NXT,2026-05-27,2026-06-01,12.1,False,post
+ROKU,2026-05-27,2026-06-03,-1.3,False,post
+UNP,2026-05-27,2026-07-07,4.1,False,post
+VVX,2026-05-27,2026-06-02,9.2,False,post
+EWY,2026-05-28,2026-05-31,,False,absent-from-full-review (re-entered later)
+GFS,2026-05-28,2026-06-05,0.0,False,post
+STRL,2026-05-28,2026-06-10,7.9,False,post
+TOYO,2026-05-28,2026-06-08,3.5,False,post
+AAPL,2026-05-31,2026-06-08,6.9,False,post
+ACIW,2026-05-31,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+AMD,2026-05-31,2026-06-10,13.1,False,post
+BVN,2026-05-31,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+EWC,2026-05-31,2026-06-05,0.9,False,post
+FSLR,2026-05-31,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+GNRC,2026-05-31,2026-06-02,11.2,False,post
+ICLN,2026-05-31,2026-06-05,5.4,False,post
+OSK,2026-05-31,2026-07-10,,False,absent-from-full-review (re-entered later)
+PDTX,2026-05-31,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+PEP,2026-05-31,2026-07-10,,False,absent-from-full-review (re-entered later)
+WAB,2026-05-31,2026-06-04,0.0,False,post
+WRC,2026-05-31,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+AIVC,2026-06-01,2026-06-05,1.1,False,post
+ATEN,2026-06-01,2026-06-09,0.0,False,post
+FLYW,2026-06-01,2026-06-02,0.0,False,post
+HBM,2026-06-01,2026-06-05,-2.2,False,post
+MRVL,2026-06-01,2026-06-05,51.1,False,post
+MU,2026-06-01,2026-06-09,-1.8,False,post
+NBIS,2026-06-01,2026-06-05,0.0,False,post
+PENG,2026-06-01,2026-06-09,12.7,False,post
+TSM,2026-06-01,2026-06-05,0.0,False,post
+TWLO,2026-06-01,2026-06-08,9.3,False,post
+AKAM,2026-06-02,2026-06-05,2.5,False,post
+AVT,2026-06-02,2026-06-26,0.0,False,post
+GLW,2026-06-02,2026-06-05,0.0,False,post
+MT,2026-06-02,2026-09-10,6.3,False,post
+SCCO,2026-06-02,2026-07-10,,False,absent-from-full-review (re-entered later)
+SIMO,2026-06-02,2026-06-05,0.0,False,post
+TECK,2026-06-02,2026-06-03,0.0,False,post
+ASML,2026-06-03,2026-06-05,-1.5,False,post
+URI,2026-06-03,2026-06-05,7.1,False,post
+DOCN,2026-06-04,2026-06-22,0.0,False,post
+FPS,2026-06-04,2026-06-10,-1.5,False,post
+CURB,2026-06-05,2026-06-29,8.3,False,post
+ELV,2026-06-05,2026-06-10,3.0,False,post
+FDX,2026-06-05,2026-06-17,0.0,False,post
+FRT,2026-06-05,2026-06-17,0.0,False,post
+GLL,2026-06-05,2026-06-08,3.2,False,post
+KRG,2026-06-05,2026-06-12,6.5,False,post
+NSA,2026-06-05,2026-07-06,7.5,False,post
+RHP,2026-06-05,2026-06-23,5.6,False,post
+SPG,2026-06-05,2026-06-26,9.4,False,post
+COHR,2026-06-08,2026-06-09,0.0,False,post
+HUM,2026-06-08,2026-06-22,5.1,False,post
+MRTN,2026-06-08,2026-06-16,0.0,False,post
+URI,2026-06-08,2026-06-16,0.0,False,post
+XPO,2026-06-08,2026-06-16,0.0,False,post
+CECO,2026-06-09,2026-06-16,9.5,False,post
+DIA,2026-06-09,2026-07-10,,False,absent-from-full-review (re-entered later)
+GLL,2026-06-09,2026-06-12,3.9,False,post
+IWM,2026-06-09,2026-07-10,,False,absent-from-full-review (re-entered later)
+RPRX,2026-06-09,2026-06-10,-0.5,False,post
+SCHH,2026-06-09,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SPY,2026-06-09,2026-07-10,,False,absent-from-full-review (re-entered later)
+XLB,2026-06-09,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+XLK,2026-06-09,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+GL,2026-06-10,2026-06-18,7.1,False,post
+M,2026-06-10,2026-06-25,13.9,False,post
+MPC,2026-06-10,2026-07-10,8.1,False,post
+PAGP,2026-06-10,2026-07-09,0.0,False,post
+UNM,2026-06-10,2026-06-24,3.1,False,post
+ACMR,2026-06-11,2026-06-22,29.5,False,post
+ATI,2026-06-11,2026-06-25,6.1,False,post
+MRVL,2026-06-11,2026-06-23,4.8,False,post
+EWBC,2026-06-12,2026-06-16,0.0,False,post
+FITB,2026-06-12,2026-07-08,5.4,False,post
+MFG,2026-06-12,2026-07-14,10.4,False,post
+ONB,2026-06-12,2026-06-26,4.4,False,post
+PBI,2026-06-12,2026-06-23,0.0,False,post
+STX,2026-06-12,2026-06-18,25.5,False,post
+VLY,2026-06-12,2026-07-10,,False,absent-from-full-review (re-entered later)
+WTTR,2026-06-12,2026-07-01,5.4,False,post
+AEM,2026-06-14,2026-07-10,,False,absent-from-full-review (re-entered later)
+CGAU,2026-06-14,2026-07-10,,False,absent-from-full-review (re-entered later)
+ESI,2026-06-14,2026-06-26,3.7,False,post
+EWY,2026-06-14,2026-07-02,-1.2,False,post
+IDXX,2026-06-14,,,True,none-observed (snapshot-observed open)
+MD,2026-06-14,2026-06-16,0.0,False,post
+NCLH,2026-06-14,2026-07-18,,False,absent-from-full-review (re-entered later)
+TV,2026-06-14,2026-07-10,,False,absent-from-full-review (re-entered later)
+WPM,2026-06-14,2026-07-10,,False,absent-from-full-review (re-entered later)
+NFXS,2026-06-16,2026-06-25,11.5,False,post
+BEN,2026-06-17,2026-07-28,0.0,False,post
+BNS,2026-06-17,2026-07-02,1.6,False,post
+BWET,2026-06-17,2026-07-09,0.0,False,post
+C,2026-06-17,2026-06-26,0.0,False,post
+GS,2026-06-17,2026-07-10,,False,absent-from-all-full-reviews-after (post open)
+IBKR,2026-06-17,2026-07-18,,False,absent-from-all-full-reviews-after (post open)
+MUFG,2026-06-17,2026-07-14,9.5,False,post
+RY,2026-06-17,2026-07-02,4.6,False,post
+SMFG,2026-06-17,2026-07-14,7.2,False,post
+VMI,2026-06-17,2026-07-01,0.0,False,post
+VVX,2026-06-17,2026-06-18,0.0,False,post
+WBS,2026-06-17,2026-07-08,1.4,False,post
+AIT,2026-06-18,2026-07-01,0.5,False,post
+EMGF,2026-06-18,2026-07-10,,False,absent-from-full-review (re-entered later)
+GWW,2026-06-18,2026-06-26,1.9,False,post
+INTC,2026-06-18,2026-07-01,0.0,False,post
+PENG,2026-06-18,2026-06-22,19.8,False,post
+SOXX,2026-06-18,2026-07-01,-2.9,False,post
+UBS,2026-06-18,2026-06-26,-1.8,False,post
+CAT,2026-06-22,2026-07-01,0.0,False,post
+CVS,2026-06-22,2026-07-23,6.5,False,post
+JPM,2026-06-22,2026-06-26,0.5,False,post
+RBC,2026-06-22,2026-06-26,-1.0,False,post
+URI,2026-06-22,2026-07-02,3.8,False,post
+AUPH,2026-06-23,2026-06-26,-3.2,False,post
+LGND,2026-06-23,2026-07-01,10.7,False,post
+CYRX,2026-06-24,2026-06-30,7.3,False,post
+AIR,2026-06-25,2026-07-07,5.3,False,post
+GTES,2026-06-25,2026-07-01,0.0,False,post
+NDSN,2026-06-25,2026-07-01,0.0,False,post
+ROK,2026-06-25,2026-07-02,1.1,False,post
+UHAL,2026-06-25,2026-06-30,3.3,False,post
+VCYT,2026-06-25,2026-06-30,5.5,False,post
+EXEL,2026-06-26,2026-07-10,,False,absent-from-full-review (re-entered later)
+UNH,2026-06-26,2026-07-16,8.9,False,post
+ACMR,2026-06-29,2026-07-01,7.5,False,post
+ALAB,2026-06-29,2026-07-01,14.4,False,post
+AMAT,2026-06-29,2026-07-01,3.2,False,post
+ATEX,2026-06-29,2026-07-02,20.1,False,post
+FTNT,2026-06-29,2026-07-10,,False,absent-from-full-review (re-entered later)
+GLW,2026-06-29,2026-06-30,15.5,False,post
+JNJ,2026-06-29,2026-07-28,7.1,False,post
+KLAC,2026-06-29,2026-07-01,9.3,False,post
+LRCX,2026-06-29,2026-07-01,3.1,False,post
+LYV,2026-06-29,2026-07-10,2.0,False,post
+OKTA,2026-06-29,2026-07-02,11.4,False,post
+AMKR,2026-06-30,2026-07-10,,False,absent-from-full-review (re-entered later)
+PENG,2026-06-30,2026-07-15,9.7,False,post
+SN,2026-06-30,2026-07-10,,False,absent-from-full-review (re-entered later)
+SNDK,2026-06-30,2026-07-01,0.0,False,post
+ABNB,2026-07-01,2026-07-20,0.0,False,post
+HUM,2026-07-01,2026-07-23,0.0,False,post
+MET,2026-07-01,2026-07-14,7.3,False,post
+ABBV,2026-07-02,2026-07-18,,False,absent-from-full-review (re-entered later)
+BIIB,2026-07-02,2026-07-17,-1.1,False,post
+LLY,2026-07-02,2026-07-10,1.1,False,post
+MRK,2026-07-02,2026-07-20,0.0,False,post
+VTR,2026-07-02,2026-07-10,0.0,False,post
+WELL,2026-07-02,2026-07-10,0.0,False,post
+ETH,2026-07-03,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+FBIN,2026-07-03,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+GEV,2026-07-03,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+GRNY,2026-07-03,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+XLY,2026-07-03,2026-07-10,,False,absent-from-full-review (re-entered later)
+BAC,2026-07-06,2026-07-18,,False,absent-from-full-review (re-entered later)
+BCS,2026-07-06,,,True,none-observed (post open)
+MS,2026-07-06,2026-07-16,0.0,False,post
+SAN,2026-07-06,2026-07-18,,False,absent-from-full-review (re-entered later)
+SNA,2026-07-06,2026-08-12,0.0,False,post
+UBS,2026-07-06,2026-09-10,5.1,False,post
+AMZN,2026-07-07,2026-07-10,,False,absent-from-full-review (re-entered later)
+GOOG,2026-07-07,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+IBIT,2026-07-07,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+LOHA,2026-07-07,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+NOW,2026-07-07,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SMH,2026-07-07,2026-07-10,,False,absent-from-full-review (re-entered later)
+TGTX,2026-07-07,2026-07-16,0.0,False,post
+XLI,2026-07-07,2026-07-10,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CSX,2026-07-09,2026-07-27,9.1,False,post
+PANW,2026-07-09,2026-07-22,0.0,False,post
+PFG,2026-07-09,2026-08-20,0.0,False,post
+AIR,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+BNS,2026-07-10,2026-07-23,1.1,False,post
+BTSG,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CCL,2026-07-10,2026-07-25,,False,absent-from-full-review (re-entered later)
+COLB,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+CORT,2026-07-10,2026-07-18,,False,absent-from-full-review (re-entered later)
+DINO,2026-07-10,2026-07-17,9.8,False,post
+EBC,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ELV,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+FR,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+KEY,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+NSC,2026-07-10,2026-07-25,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+NWE,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+PARR,2026-07-10,2026-07-22,11.5,False,post
+PFGC,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+PNC,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+PRF,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+PRVA,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+RF,2026-07-10,2026-07-18,,False,absent-from-full-review (re-entered later)
+RY,2026-07-10,2026-07-25,,False,absent-from-all-full-reviews-after (post open)
+SLDE,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+SLF,2026-07-10,2026-07-18,,False,absent-from-full-review (re-entered later)
+SPHQ,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+TD,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+TGT,2026-07-10,2026-08-05,10.6,False,post
+TRIN,2026-07-10,2026-07-30,0.0,False,post
+TRV,2026-07-10,2026-07-24,10.3,False,post
+UNP,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+USB,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+VTV,2026-07-10,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+BNO,2026-07-13,2026-07-24,16.8,False,post
+GLL,2026-07-13,2026-07-21,0.0,False,post
+PBF,2026-07-13,2026-07-15,9.5,False,post
+PGNY,2026-07-13,2026-07-22,0.5,False,post
+PSX,2026-07-13,2026-07-23,9.5,False,post
+VLO,2026-07-13,2026-07-22,9.6,False,post
+AM,2026-07-14,2026-07-27,0.0,False,post
+ATEN,2026-07-14,2026-07-18,,False,absent-from-full-review (re-entered later)
+RDN,2026-07-14,2026-07-30,1.2,False,post
+BLK,2026-07-15,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+BNY,2026-07-15,2026-07-25,,False,absent-from-full-review (re-entered later)
+DAL,2026-07-15,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+JPM,2026-07-15,2026-07-18,,False,absent-from-full-review (re-entered later)
+NVDA,2026-07-15,2026-07-18,,False,absent-from-full-review (re-entered later)
+SMH,2026-07-15,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+VST,2026-07-15,2026-07-18,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+ZION,2026-07-15,2026-07-18,,False,absent-from-full-review (re-entered later)
+DOC,2026-07-16,2026-07-30,2.1,False,post
+KIM,2026-07-16,2026-07-18,,False,absent-from-full-review (re-entered later)
+LTC,2026-07-16,2026-07-20,2.5,False,post
+VTR,2026-07-16,2026-07-30,3.5,False,post
+WT,2026-07-17,2026-08-05,15.8,False,post
+AAPL,2026-07-18,2026-07-25,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+AEM,2026-07-18,,,True,none-observed (snapshot-observed open)
+CGAU,2026-07-18,2026-08-24,17.5,False,post
+EMGF,2026-07-18,,,True,none-observed (snapshot-observed open)
+EXEL,2026-07-18,2026-07-31,0.5,False,post
+FSM,2026-07-18,2026-07-25,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+FTNT,2026-07-18,2026-07-21,3.0,False,post
+IYZ,2026-07-18,2026-07-25,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+LAND,2026-07-18,,,True,none-observed (snapshot-observed open)
+OSK,2026-07-18,2026-07-25,,False,absent-from-full-review (re-entered later)
+PEP,2026-07-18,,,True,none-observed (snapshot-observed open)
+RYAAY,2026-07-18,,,True,none-observed (snapshot-observed open)
+SCCO,2026-07-18,2026-08-12,0.0,False,post
+SN,2026-07-18,2026-07-21,0.0,False,post
+TV,2026-07-18,2026-07-25,,False,absent-from-all-full-reviews-after (snapshot-observed open)
+VLY,2026-07-18,2026-07-25,,False,absent-from-full-review (re-entered later)
+WPM,2026-07-18,2026-08-26,4.9,False,post
+ALL,2026-07-20,2026-07-30,8.1,False,post
+CB,2026-07-20,2026-07-22,-1.7,False,post
+V,2026-07-20,2026-08-12,0.5,False,post
+HSBC,2026-07-21,2026-08-18,2.7,False,post
+JPM,2026-07-21,2026-08-19,6.1,False,post
+LYG,2026-07-21,2026-08-19,1.0,False,post
+MUFG,2026-07-21,2026-08-19,0.0,False,post
+NWG,2026-07-21,2026-07-31,7.2,False,post
+SMFG,2026-07-21,2026-08-19,-2.4,False,post
+BIP,2026-07-22,2026-07-27,3.2,False,post
+CF,2026-07-22,2026-07-25,,False,absent-from-full-review (re-entered later)
+CTVA,2026-07-22,2026-07-31,-5.3,False,post
+KNTK,2026-07-22,2026-08-28,5.7,False,post
+PAA,2026-07-22,2026-07-25,,False,absent-from-full-review (re-entered later)
+VG,2026-07-22,,,True,none-observed (post open)
+LNG,2026-07-23,2026-07-25,,False,absent-from-full-review (re-entered later)
+LPG,2026-07-23,2026-08-25,15.2,False,post
+SU,2026-07-23,2026-07-25,,False,absent-from-full-review (re-entered later)
+WES,2026-07-23,2026-07-27,0.0,False,post
+FAF,2026-07-24,2026-07-30,7.3,False,post
+A,2026-07-25,,,True,none-observed (snapshot-observed open)
+ABBV,2026-07-25,2026-09-10,0.0,False,post
+AMKR,2026-07-25,,,True,none-observed (snapshot-observed open)
+ATEN,2026-07-25,,,True,none-observed (snapshot-observed open)
+DINO,2026-07-25,,,True,none-observed (snapshot-observed open)
+FTNR,2026-07-25,,,True,none-observed (snapshot-observed open)
+KIM,2026-07-25,2026-07-30,1.9,False,post
+LMT,2026-07-25,,,True,none-observed (snapshot-observed open)
+RF,2026-07-25,2026-08-19,2.0,False,post
+BNL,2026-07-27,2026-07-28,0.0,False,post
+VFLO,2026-07-27,2026-08-12,8.4,False,post
+MET,2026-07-28,2026-08-19,0.0,False,post
+SLF,2026-07-28,,,True,none-observed (post open)
+SPG,2026-07-28,2026-07-30,0.0,False,post
+TFC,2026-07-28,2026-08-19,0.0,False,post
+DDOG,2026-07-29,,,True,none-observed (snapshot-observed open)
+JEPO,2026-07-29,,,True,none-observed (snapshot-observed open)
+META,2026-07-29,,,True,none-observed (snapshot-observed open)
+MU,2026-07-29,,,True,none-observed (snapshot-observed open)
+PAGP,2026-07-29,2026-09-10,6.4,False,post
+PARR,2026-07-29,2026-08-14,0.0,False,post
+SPY,2026-07-29,,,True,none-observed (snapshot-observed open)
+TWLO,2026-07-29,,,True,none-observed (snapshot-observed open)
+XLF,2026-07-29,,,True,none-observed (snapshot-observed open)
+XLV,2026-07-29,,,True,none-observed (snapshot-observed open)
+XLY,2026-07-29,,,True,none-observed (snapshot-observed open)
+BUSE,2026-07-30,2026-08-18,0.8,False,post
+EUFN,2026-07-30,2026-08-18,3.0,False,post
+LNC,2026-07-30,2026-08-12,1.1,False,post
+AFL,2026-07-31,,,True,none-observed (post open)
+BRK.B,2026-07-31,2026-08-12,0.0,False,post
+CHEF,2026-07-31,2026-09-15,-1.0,False,post
+PRU,2026-07-31,2026-08-19,1.4,False,post
+CNO,2026-08-03,2026-08-19,-1.2,False,post
+SSB,2026-08-03,2026-08-18,6.1,False,post
+BLLN,2026-08-05,,,True,none-observed (post open)
+IQV,2026-08-05,2026-09-08,12.6,False,post
+SCO,2026-08-05,,,True,none-observed (post open)
+VCTR,2026-08-06,2026-08-13,14.0,False,post
+GRDN,2026-08-07,,,True,none-observed (post open)
+BLLLN,2026-08-08,,,True,none-observed (snapshot-observed open)
+IQVIA,2026-08-08,,,True,none-observed (snapshot-observed open)
+IWD,2026-08-08,,,True,none-observed (snapshot-observed open)
+SBLK,2026-08-08,2026-08-19,7.5,False,post
+LB,2026-08-10,2026-08-12,0.0,False,post
+MPC,2026-08-10,2026-08-14,15.6,False,post
+OII,2026-08-10,2026-08-24,4.8,False,post
+OVV,2026-08-10,2026-08-24,8.5,False,post
+PSX,2026-08-10,2026-08-14,12.2,False,post
+VLO,2026-08-10,2026-08-14,12.5,False,post
+WHD,2026-08-10,2026-08-20,6.5,False,post
+ARKK,2026-08-11,,,True,none-observed (snapshot-observed open)
+DIA,2026-08-11,,,True,none-observed (snapshot-observed open)
+DKS,2026-08-11,,,True,none-observed (snapshot-observed open)
+FEZ,2026-08-11,,,True,none-observed (snapshot-observed open)
+GLD,2026-08-11,,,True,none-observed (snapshot-observed open)
+IWM,2026-08-11,,,True,none-observed (snapshot-observed open)
+KLAC,2026-08-11,,,True,none-observed (snapshot-observed open)
+NVDA,2026-08-11,2026-08-15,,False,absent-from-full-review (re-entered later)
+PSP,2026-08-11,,,True,none-observed (snapshot-observed open)
+QQQ,2026-08-11,,,True,none-observed (snapshot-observed open)
+BNS,2026-08-12,,,True,none-observed (post open)
+CRAK,2026-08-12,,,True,none-observed (post open)
+DK,2026-08-12,2026-08-14,5.8,False,post
+HSIC,2026-08-12,2026-09-15,0.0,False,post
+LFST,2026-08-12,2026-09-15,12.2,False,post
+PBF,2026-08-12,2026-08-14,6.9,False,post
+CM,2026-08-13,2026-08-18,0.0,False,post
+PANW,2026-08-13,,,True,none-observed (post open)
+RPV,2026-08-13,,,True,none-observed (post open)
+BAC,2026-08-15,2026-08-19,7.9,False,post
+BNY,2026-08-15,2026-08-19,5.1,False,post
+CCL,2026-08-15,,,True,none-observed (snapshot-observed open)
+CF,2026-08-15,2026-09-11,6.1,False,post
+COST,2026-08-15,,,True,none-observed (snapshot-observed open)
+EHC,2026-08-15,,,True,none-observed (snapshot-observed open)
+LNG,2026-08-15,2026-09-14,1.9,False,post
+NCLH,2026-08-15,,,True,none-observed (snapshot-observed open)
+OSK,2026-08-15,,,True,none-observed (snapshot-observed open)
+OVVI,2026-08-15,,,True,none-observed (snapshot-observed open)
+PAA,2026-08-15,,,True,none-observed (snapshot-observed open)
+PACS,2026-08-15,,,True,none-observed (snapshot-observed open)
+SAN,2026-08-15,2026-08-17,3.7,False,post
+SU,2026-08-15,,,True,none-observed (snapshot-observed open)
+VLY,2026-08-15,2026-08-19,1.7,False,post
+ZION,2026-08-15,2026-08-19,0.0,False,post
+ARGX,2026-08-17,2026-08-24,10.1,False,post
+BMO,2026-08-17,,,True,none-observed (post open)
+CFG,2026-08-17,,,True,none-observed (post open)
+CP,2026-08-17,,,True,none-observed (post open)
+ECO,2026-08-17,,,True,none-observed (post open)
+HSHP,2026-08-17,2026-08-26,0.0,False,post
+WAB,2026-08-17,2026-08-28,-1.5,False,post
+AMGN,2026-08-18,2026-09-08,-3.8,False,post
+EQNR,2026-08-18,,,True,none-observed (post open)
+APA,2026-08-19,,,True,none-observed (post open)
+AYA,2026-08-19,,,True,none-observed (post open)
+CVE,2026-08-19,,,True,none-observed (post open)
+EC,2026-08-19,,,True,none-observed (post open)
+ANDG,2026-08-20,2026-08-28,17.8,False,post
+OSCR,2026-08-20,,,True,none-observed (post open)
+RVTY,2026-08-20,2026-09-08,8.1,False,post
+SM,2026-08-20,,,True,none-observed (post open)
+SSRM,2026-08-20,2026-08-28,10.9,False,post
+THC,2026-08-20,2026-08-27,0.0,False,post
+BMY,2026-08-21,,,True,none-observed (post open)
+CORT,2026-08-21,,,True,none-observed (post open)
+CRON,2026-08-21,2026-08-27,10.1,False,post
+HALO,2026-08-21,,,True,none-observed (post open)
+ILMN,2026-08-21,,,True,none-observed (post open)
+LH,2026-08-21,,,True,none-observed (post open)
+LLY,2026-08-21,,,True,none-observed (post open)
+BNY,2026-08-24,,,True,none-observed (post open)
+CNK,2026-08-24,,,True,none-observed (post open)
+EUFN,2026-08-24,2026-08-27,0.0,False,post
+GORO,2026-08-24,2026-08-26,16.6,False,post
+SAN,2026-08-24,,,True,none-observed (post open)
+AGEN,2026-08-25,,,True,none-observed (post open)
+GMAB,2026-08-25,,,True,none-observed (post open)
+INCY,2026-08-25,,,True,none-observed (post open)
+JAZZ,2026-08-25,,,True,none-observed (post open)
+RPRX,2026-08-25,,,True,none-observed (post open)
+AAMI,2026-08-26,,,True,none-observed (post open)
+CVI,2026-08-26,2026-09-09,22.5,False,post
+DK,2026-08-26,,,True,none-observed (post open)
+PBF,2026-08-26,2026-09-14,10.1,False,post
+VCTR,2026-08-26,,,True,none-observed (post open)
+BOX,2026-08-27,,,True,none-observed (post open)
+CRWD,2026-08-27,,,True,none-observed (post open)
+DBX,2026-08-27,,,True,none-observed (post open)
+FTNT,2026-08-27,,,True,none-observed (post open)
+GEN,2026-08-27,2026-09-08,0.0,False,post
+NSIT,2026-08-27,,,True,none-observed (post open)
+NVDA,2026-08-27,,,True,none-observed (post open)
+XYZ,2026-08-27,,,True,none-observed (post open)
+AMZN,2026-08-28,,,True,none-observed (post open)
+GPRK,2026-08-31,2026-09-03,24.1,False,post
+SLB,2026-08-31,,,True,none-observed (post open)
+XPRO,2026-08-31,,,True,none-observed (post open)
+WT,2026-09-01,,,True,none-observed (post open)
+BIIB,2026-09-02,,,True,none-observed (post open)
+DELL,2026-09-02,2026-09-10,13.5,False,post
+V,2026-09-02,,,True,none-observed (post open)
+UPRO,2026-09-03,,,True,none-observed (post open)
+HPQ,2026-09-04,2026-09-14,8.5,False,post
+UGP,2026-09-04,,,True,none-observed (post open)
+GPRK,2026-09-08,,,True,none-observed (post open)
+OKE,2026-09-08,,,True,none-observed (post open)
+SUNC,2026-09-08,,,True,none-observed (post open)
+NUTX,2026-09-14,,,True,none-observed (post open)
+OKTA,2026-09-14,,,True,none-observed (post open)
+ROKU,2026-09-14,,,True,none-observed (post open)
+BUG,2026-09-15,,,True,none-observed (post open)
+QRVO,2026-09-15,,,True,none-observed (post open)
+SWKS,2026-09-15,,,True,none-observed (post open)

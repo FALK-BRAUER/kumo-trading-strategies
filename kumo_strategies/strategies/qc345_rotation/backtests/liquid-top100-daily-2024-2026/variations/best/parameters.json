@@ -1,0 +1,60 @@
+{
+ "variant": "best \u2014 QC345 as the package ships it: monthly top-down selection, split/dividend-adjusted momentum, trail between rebalances, fully invested (the family's recorded result)",
+ "inputs": {
+  "bars": "bars.parquet",
+  "assets": "assets.parquet",
+  "instruments": "instruments.json",
+  "half_spreads": "half_spreads.json"
+ },
+ "run": {
+  "start": "2024-01-02",
+  "end": "2026-08-10",
+  "starting_cash": 100000.0,
+  "deployed": null,
+  "n_trials": 48,
+  "benchmarks": [
+   "SPY",
+   "QQQ",
+   "GLD"
+  ],
+  "benchmark_price_field": "close_adj"
+ },
+ "strategy": {
+  "lookback_sessions": 252,
+  "liquidity_window": 21,
+  "min_liquidity_history": 10,
+  "realized_vol_window": 20,
+  "min_realized_vol_history": 10,
+  "corporate_action_move": 0.4,
+  "corporate_action_window": 41,
+  "price_floor": 5.0,
+  "liquidity_filter_size": 100,
+  "universe_size": 50,
+  "portfolio_size": 5,
+  "asset_universe_mode": "fundamental_like",
+  "market_cap_mode": "price_x_dv",
+  "momentum_price_field": "close_split_dividend",
+  "mania_momentum_threshold": 3.0,
+  "mania_volatility_threshold": 0.05,
+  "exits": {
+   "stall_days": null,
+   "max_hold_days": null,
+   "off_peak_pct": null,
+   "peak_fade_off_pct": null,
+   "peak_fade_confirm": 2,
+   "peak_fade_lower_highs": null,
+   "stop_loss_atr": null,
+   "take_profit_atr": null,
+   "give_back_confirm_sessions": null,
+   "give_back_min_peak_atr": null,
+   "give_back_frac": null
+  },
+  "forced_rebalance_dates": [],
+  "market_view": {
+   "signal": "none",
+   "window": 50,
+   "action": null,
+   "dwell": 1
+  }
+ }
+}

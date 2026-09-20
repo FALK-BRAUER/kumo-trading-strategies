@@ -1,0 +1,40 @@
+{
+ "variant": "best \u2014 momentum rotation, one open-anchored decision per session, as MOMENTUM ships",
+ "inputs": {
+  "bars": "bars.parquet",
+  "ledger": "ledger.csv",
+  "ledger_snapshots": "ledger-snapshots.json",
+  "instruments": "instruments.json",
+  "half_spreads": "half_spreads.json"
+ },
+ "source": {
+  "kind": "ledger_book",
+  "lag_days": 1,
+  "max_open_days": 57
+ },
+ "score": {
+  "lookback": 20
+ },
+ "portfolio": {
+  "n_hold": 8,
+  "buffer": 5
+ },
+ "exits": {
+  "give_back_frac": 0.5
+ },
+ "execution": {
+  "decision_slots": [
+   "open+5m"
+  ],
+  "min_abs_gap_pct": null
+ },
+ "run": {
+  "starting_cash": 100000.0,
+  "n_trials": 90,
+  "benchmarks": [
+   "SPY",
+   "QQQ",
+   "GLD"
+  ]
+ }
+}

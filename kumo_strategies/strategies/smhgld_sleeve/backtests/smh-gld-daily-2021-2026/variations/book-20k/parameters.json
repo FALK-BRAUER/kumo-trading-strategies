@@ -1,0 +1,35 @@
+{
+ "variant": "book-20k \u2014 the promotion window on a $20k book: integer shares of a $250 leg round to ~1 % of the sleeve, above the 0.25 % drift band, so the rounding itself trades",
+ "inputs": {
+  "bars": "bars.parquet"
+ },
+ "run": {
+  "end": "2026-09-10",
+  "cost_bps_per_side": 10.0,
+  "n_trials": 1,
+  "benchmarks": [
+   "SPY",
+   "QQQ",
+   "GLD"
+  ],
+  "start": "2024-01-01",
+  "starting_cash": 20000.0
+ },
+ "strategy": {
+  "risk_asset": "SMH",
+  "defensive_asset": "GLD",
+  "risk_weight": 0.48,
+  "drift_band": 0.0025,
+  "price_field": "close",
+  "rebalance_period": "D",
+  "market_view": {
+   "signal": "index_vs_ma",
+   "window": 50,
+   "action": "exit_only",
+   "dwell": 1
+  },
+  "fill_slot": "close",
+  "warmup_sessions": 3,
+  "max_stale_days": 4
+ }
+}

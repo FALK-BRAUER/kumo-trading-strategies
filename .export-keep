@@ -1,0 +1,10 @@
+LICENSE
+LICENSE.GPL-3.0
+CONTRIBUTING.md
+CLAUDE.md
+.gitignore
+.editorconfig
+.pre-commit-config.yaml
+.github/
+.claude/
+bin/hooks/

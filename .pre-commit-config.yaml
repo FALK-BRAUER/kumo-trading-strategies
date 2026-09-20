@@ -1,0 +1,22 @@
+# pre-commit hooks. Install once: `pre-commit install`.
+# `check-public-tree` is the export guard: it refuses a commit that contains anything the public
+# tree must never hold (account ids, hostnames, personal identifiers, market data). The hook slot is
+# here so the property is enforced at commit time, not remembered at export time.
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: check-added-large-files
+        args: ["--maxkb=512"]
+      - id: check-merge-conflict
+      - id: detect-private-key
+  - repo: local
+    hooks:
+      - id: check-public-tree
+        name: check-public-tree
+        entry: bin/check-public-tree.sh
+        language: script
+        pass_filenames: false
+        always_run: true

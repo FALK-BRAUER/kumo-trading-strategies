@@ -1,0 +1,42 @@
+{
+ "variant": "costs-200bps \u2014 the best candidate paying 200 bps a side: the cost mutation from the acceptance run, so the reader sees what execution quality is worth here",
+ "inputs": {
+  "bars": "bars.parquet"
+ },
+ "panel": {
+  "adjustment": "all",
+  "warmup_start": "2024-06-01"
+ },
+ "run": {
+  "start": "2025-01-01",
+  "end": "2026-09-08",
+  "starting_cash": 1000000.0,
+  "cost_bps_per_side": 200.0,
+  "borrow_annual": 0.2,
+  "benchmarks": [
+   "SPY",
+   "QQQ",
+   "GLD"
+  ]
+ },
+ "strategy": {
+  "min_dollar_volume": 200000000.0,
+  "price_floor": 5.0,
+  "manage_min_dollar_volume": 1000000.0,
+  "min_annual_vol": 1.0,
+  "vol_window": 100,
+  "crsi_entry": 90.0,
+  "crsi_rsi_period": 3,
+  "crsi_streak_period": 2,
+  "crsi_rank_period": 100,
+  "entry_limit_pct": 0.03,
+  "reversal_exit": true,
+  "weakness_exit": false,
+  "give_back_frac": 1.0,
+  "n_slots": 20,
+  "size_multiple": 1.0,
+  "hold_through": true,
+  "max_borrow_fee_annual": null,
+  "max_stale_days": 4
+ }
+}

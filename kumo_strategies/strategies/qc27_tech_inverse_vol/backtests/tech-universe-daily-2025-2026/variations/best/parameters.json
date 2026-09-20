@@ -1,0 +1,44 @@
+{
+ "variant": "best \u2014 the selected configuration: daily rebalance, momentum on the raw close (a live bar has no adjusted close), 50-day index-vs-MA view acting EXIT_ONLY",
+ "inputs": {
+  "bars": "bars.parquet",
+  "sectors": "sectors.parquet",
+  "half_spreads": "half_spreads.json"
+ },
+ "run": {
+  "start": "2025-01-02",
+  "end": "2026-08-10",
+  "starting_cash": 100000.0,
+  "deployed": 0.75,
+  "n_trials": 1,
+  "benchmarks": [
+   "SPY",
+   "QQQ",
+   "GLD"
+  ],
+  "benchmark_price_field": "close_adj"
+ },
+ "strategy": {
+  "lookback_sessions": 63,
+  "liquidity_window": 21,
+  "min_liquidity_history": 10,
+  "realized_vol_window": 20,
+  "min_realized_vol_history": 15,
+  "warmup_sessions": 100,
+  "price_floor": 5.0,
+  "liquidity_filter_size": 100,
+  "portfolio_size": 10,
+  "stop_loss_portfolio_frac": 0.02,
+  "rebalance_period": "D",
+  "market_view": {
+   "signal": "index_vs_ma",
+   "window": 50,
+   "action": "exit_only",
+   "dwell": 1
+  },
+  "momentum_price_field": "close",
+  "cash_proxy_symbol": "GLD",
+  "sector_value": "Technology",
+  "require_us_country": true
+ }
+}

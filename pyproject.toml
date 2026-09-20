@@ -1,0 +1,93 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kumo-trading-strategies"
+version = "0.1.0"
+description = "Executable Kumo strategy implementations, replay harnesses, and runtime adapters consumed by kumo-trading-platform"
+readme = "README.md"
+license = "LGPL-3.0-or-later"
+requires-python = ">=3.12,<3.14"
+# What the package IMPORTS unconditionally. This was `[]` while the code imported numpy, pandas and
+# sqlalchemy, so `uv sync` produced an environment in which `tests/runtime/executor/` could not even be
+# COLLECTED — the suite only passed inside kumo-trading-platform's venv, which happens to install these for its
+# own reasons. A library whose tests cannot run from its own checkout has no usable CI gate, which
+# matters now that the exit-coverage test is one (kumo-trading-platform issue 197 P0/P3).
+#
+# Lower bounds only, and deliberately loose: kumo-trading-platform installs this package into an environment it
+# already pins (`sqlalchemy[asyncio]>=2.0`, asyncpg, and numpy/pandas transitively via nautilus_trader).
+# Pinning here would only create resolver conflicts against the consumer that matters.
+dependencies = [
+    "numpy>=1.26",          # strategies/momentum_rotation/score.py and the backtest harnesses
+    "pandas>=2.0",          # panel handling throughout
+    "sqlalchemy[asyncio]>=2.0",  # runtime/executor persistence; the asyncio extra is REQUIRED, not
+                                 # optional — store.make_engine calls create_async_engine
+]
+
+[project.optional-dependencies]
+nautilus = [
+    "nautilus_trader==1.229.0",
+]
+postgres = [
+    # Not imported directly — it is the driver in the default URL
+    # (`postgresql+asyncpg://…`, store.py:29), so anything actually talking to Postgres needs it.
+    # Separate from the core deps because the pure engine and the backtest harnesses do not.
+    "asyncpg>=0.29",
+]
+dev = [
+    "pytest>=8",
+    "ruff>=0.5",
+    "mypy>=1.10",
+]
+
+[tool.setuptools.package-dir]
+"" = "."
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["kumo_strategies*"]
+exclude = ["*.tests", "*.tests.*", "*.backtests", "*.backtests.*", "*.studies", "*.studies.*"]
+
+[tool.setuptools.package-data]
+# EVERY non-.py file in the package ships. Without this, `pip install` silently drops them and the
+# installed package is a SUBSET of its source — so `digest()` computed on a source tree and
+# `digest()` computed inside a container disagree for a reason that has nothing to do with which
+# code is running. kumo-trading-platform issue 486 compares exactly those two numbers and fails a deploy when they
+# differ, so a partial wheel would make every deploy fail or force the digest to be narrowed back to
+# `*.py` and go blind to data files. Measured: 97 files in the tree, 82 in the wheel.
+#
+# The rule is simply that identity and payload must be the same set. If a file is worth hashing it
+# is worth shipping; if it is not worth shipping it must not be hashed.
+"*" = ["*.md", "*.json", "*.toml", "*.csv", "*.sql", "*.txt", "*.yaml", "*.yml"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests", "kumo_strategies"]
+# Backtest sets and studies hold research SCRIPTS (some named *_test.py from their research days), not
+# tests; a script that reads data at import must not be collected. Tests live in tests/ and */tests/.
+norecursedirs = ["backtests", "studies", ".venv", "node_modules", "__pycache__"]
+# THE REPO ROOT ON sys.path, so `pytest` and `python -m pytest` agree.
+#
+# Two tests import a helper across test modules — `from tests.runtime.nautilus.test_contract import
+# _shipped_adapters` (test_arming_survives_a_dead_calendar.py, test_cross_repo_lane_floor.py) — which
+# needs `tests` importable as a package. `python -m pytest` inserts the CWD into `sys.path` and the
+# `pytest` console script does NOT, so the same tree passed locally and failed in CI, which runs
+# `uv run pytest tests/ -q`.
+#
+# CI HAD BEEN RED SINCE BEFORE 37a86ca AND NOBODY LOOKED, including through a 23-commit landing PR
+# where every commit message quoted a local "passed" count. Two derivations of "do the tests pass"
+# disagreeing, with only the agreeable one ever consulted (#77).
+pythonpath = ["."]
+markers = [
+    "needs_data(rel): reads a file under KUMO_DATA_ROOT; skipped by NAME when the root is unset (#211)",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+mypy_path = "."

@@ -1,0 +1,35 @@
+{
+ "variant": "since-2021 \u2014 the same configuration over the full window containing 2022, where the sleeve draws down nearly twice as deep: the stress case, same book",
+ "inputs": {
+  "bars": "bars.parquet"
+ },
+ "run": {
+  "end": "2026-09-10",
+  "cost_bps_per_side": 10.0,
+  "n_trials": 1,
+  "benchmarks": [
+   "SPY",
+   "QQQ",
+   "GLD"
+  ],
+  "start": "2021-01-01",
+  "starting_cash": 1000000.0
+ },
+ "strategy": {
+  "risk_asset": "SMH",
+  "defensive_asset": "GLD",
+  "risk_weight": 0.48,
+  "drift_band": 0.0025,
+  "price_field": "close",
+  "rebalance_period": "D",
+  "market_view": {
+   "signal": "index_vs_ma",
+   "window": 50,
+   "action": "exit_only",
+   "dwell": 1
+  },
+  "fill_slot": "close",
+  "warmup_sessions": 3,
+  "max_stale_days": 4
+ }
+}
